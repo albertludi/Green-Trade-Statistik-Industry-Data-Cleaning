@@ -1,0 +1,96 @@
+# Progress Log — Green-Trade SI Data Cleaning
+# Format: [DATE] SESSION TITLE
+#         Notes, findings, decisions
+# ============================================================
+
+
+[2026-03-11] SESSION 1 — Initial Data Exploration
+──────────────────────────────────────────────────
+
+## Dataset Overview
+- File: data8514_SI/data8514_SI.dta
+- Observations: 579,533 firm-year obs
+- Variables: 98
+- Year range: 1985–2014 (energy vars mostly 1990–2014)
+- Unit identifier: psid (plant ID)
+
+## Energy Variable Inventory
+
+### Electricity
+| Variable  | Description                        | Coverage     | Units     |
+|-----------|------------------------------------|--------------|-----------|
+| efuvcu    | Electricity expenditure (total)    | ~100% (3 NA) | Rp000     |
+
+NOTE: efuvcu is NOT a sum of the fuel vcu vars — very low correlation (0.40
+in 2005), and efuvcu is systematically smaller. It is a separate electricity
+variable, available nearly complete across all years.
+
+### Fuel Variables (zp* = production use, zn* = non-production use)
+| Code | Energy Type (best guess, IBS convention) | Coverage     | Year Range |
+|------|------------------------------------------|--------------|------------|
+| zpdvcu / zndvcu | Solar/HSD (diesel)            | ~515K / 89%  | 1990–2014  |
+| zpsvcu / znsvcu | Minyak tanah (kerosene)       | ~515K / 89%  | 1990–2014  |
+| zpovcu / znovcu | Bensin/premium (gasoline)     | ~160K / 46%  | 1990–2014  |
+| zpivcu / znivcu | Batubara (coal) or ind. fuel  | ~212K / 59%  | 1990–2014  |
+| zpzvcu / znzvcu | Gas/LPG                       | ~172K / 30%  | 2001–2009  |
+| zpxvcu / znxvcu | Other/electricity (PLN?)      | ~43K  / 7%   | 2005–2009  |
+
+### Variable Structure
+- `vcu` suffix = value in current Rupiah (Rp thousands assumed)
+- `ccu` suffix = cost version (similar to vcu, purpose unclear — may be same thing)
+- `kcu` suffix = physical quantity — VERY SPARSE (see below)
+
+### Physical Quantity (kcu) Variables — Sparse!
+| Variable | Non-zero obs | Total valid | % non-zero | Estimated unit |
+|----------|-------------|-------------|------------|----------------|
+| zpdkcu   | 66,728      | 299,477     | 22%        | Liters (diesel)|
+| zpskcu   | 34,151      | 299,477     | 11%        | Liters (kero)  |
+| zpokku   | 8,877       | 299,477     |  3%        | Liters (petrol)|
+| zpikku   | 33,599      | 299,477     | 11%        | Kg or Ton (coal)|
+| zndkcu   | 40,085      | 299,477     | 13%        | Liters          |
+| znskku   | 20,826      | 299,477     |  7%        | Liters          |
+| znokku   | 4,568       | 299,477     |  2%        | Liters          |
+| znikku   | 18,000      | 299,477     |  6%        | Kg or Ton       |
+
+Sample kcu ranges (year >= 2000):
+- zpdkcu: median=4,650, max=83.6M  (likely liters; plausible for factories)
+- zpskku: median=8,400
+- zpikku: median=2,000  (if coal: tons = plausible for mid-size factories)
+
+## Key Issues / Challenges
+
+1. PHYSICAL QUANTITIES ARE SPARSE: kcu vars have <22% non-zero obs.
+   Main coverage only 1990-onward (subset years with quantity data unclear).
+   → Carbon conversion using physical quantities only feasible for subset.
+   → Alternative: use monetary values + energy price deflators by fuel type
+     and year to back out physical quantities. Need PLN/BPS price series.
+
+2. ENERGY TYPE CODES UNCONFIRMED: Variable labels are all NULL.
+   Best-guess mapping above is based on IBS/SI conventions but needs
+   verification against the questionnaire PDFs in data8514_SI/.
+   → TODO: Check questionnaire PDFs for variable definitions.
+
+3. PRODUCTION vs NON-PRODUCTION SPLIT: All fuel vars come in p/n pairs.
+   For carbon intensity = production use is likely the relevant one.
+   Decision needed: use p only, or p+n total?
+
+4. YEAR COVERAGE BREAKS:
+   - zpzvcu (gas/LPG) only 2001–2009: gaps before/after
+   - zpxvcu (unknown type) only 2005–2009: very limited
+
+5. efuvcu UNITS: likely Rp000, but needs confirmation. Mean in 2014 = Rp3.8M
+   (= Rp3.8B if in thousands) — large factories plausible.
+
+## Next Steps
+1. Verify energy type codes against questionnaire PDFs
+2. Decide strategy for kcu sparsity: price deflator approach vs. restrict sample
+3. Investigate ccu vs vcu — are they the same variable in different periods?
+4. Check cross-year variable consistency (survey form changed over time)
+5. Write 01_energy_clean.do
+
+## Decisions Made This Session
+- Use efuvcu as the electricity variable (nearly complete, confirmed separate)
+- Focus on vcu (monetary) vars as primary — kcu too sparse for full panel
+- Will document emission factor sources when we convert
+
+# ============================================================

@@ -12,6 +12,9 @@
 ~*.do
 *.stswp
 
+# But track project logs in AI_Collaboration
+!AI_Collaboration/*.log
+
 # Output data (large)
 output/*.dta
 output/*.csv
