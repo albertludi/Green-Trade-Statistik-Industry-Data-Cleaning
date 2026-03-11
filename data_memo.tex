@@ -1,0 +1,261 @@
+% ============================================================
+% Data Memo: Statistik Industri (SI) Panel
+% Green-Trade Project — Energy Data Cleaning
+% ============================================================
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{microtype}
+
+% Colours
+\definecolor{noteblue}{RGB}{30, 90, 160}
+\definecolor{warnred}{RGB}{180, 30, 30}
+\definecolor{lightgray}{RGB}{245, 245, 245}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\color{noteblue}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+
+% Hyperlink style
+\hypersetup{colorlinks=true, linkcolor=noteblue, urlcolor=noteblue}
+
+% ============================================================
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Data Memo: Statistik Industri Panel}}\\[0.5em]
+  {\large Green-Trade Project — Energy Variables}\\[0.3em]
+  {\small Last updated: March 2026 \quad|\quad File: \texttt{data8514\_SI.dta}}
+\end{center}
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+% ============================================================
+\section{Dataset Overview}
+
+The Statistik Industri (SI) — also known as the Industri Besar dan Sedang (IBS) survey — is
+Indonesia's annual census of medium and large manufacturing establishments. It is conducted by
+BPS (Badan Pusat Statistik) and covers all establishments with 20 or more workers.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{ll}
+\toprule
+\textbf{Item} & \textbf{Value} \\
+\midrule
+File            & \texttt{data8514\_SI.dta} \\
+Years covered   & 1985–2014 \\
+Total obs.      & 579,533 firm-year observations \\
+Unique firms    & 64,950 establishments \\
+Provinces       & 38 \\
+Variables       & 98 \\
+\bottomrule
+\end{tabular}
+\caption{Dataset summary}
+\end{table}
+
+\textbf{Unit of observation:} one row = one establishment in one year.
+
+\textbf{Key identifiers:}
+\begin{itemize}[noitemsep]
+  \item \texttt{psid} — Plant/establishment ID (panel identifier)
+  \item \texttt{year} — Survey year
+  \item \texttt{disic5} / \texttt{disic4} — 5-digit and 4-digit industry code (ISIC)
+  \item \texttt{dprovi} — Province code (38 provinces)
+  \item \texttt{ekspor} — Export status (1 = exporter, 2 = non-exporter; 95,759 non-missing obs)
+\end{itemize}
+
+
+% ============================================================
+\section{Energy Variables}
+
+\subsection{Variable Naming Convention}
+
+Energy variables follow a structured naming pattern:
+
+\begin{center}
+\texttt{[type][use][fuel][suffix]}
+\end{center}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\toprule
+\textbf{Position} & \textbf{Code} & \textbf{Meaning} \\
+\midrule
+\multirow{1}{*}{Type}  & \texttt{z}    & Fuel/energy variable \\
+                       & \texttt{ef}   & Electricity (special prefix) \\
+\midrule
+\multirow{2}{*}{Use}   & \texttt{p}    & For production (\textit{untuk produksi}) \\
+                       & \texttt{n}    & Non-production (\textit{bukan untuk produksi}) \\
+\midrule
+\multirow{6}{*}{Fuel}  & \texttt{d}    & Solar/HSD (diesel) \\
+                       & \texttt{s}    & Minyak tanah (kerosene) \\
+                       & \texttt{o}    & Bensin/premium (gasoline) \\
+                       & \texttt{i}    & Batubara (coal) or industrial fuel \\
+                       & \texttt{z}    & Gas/LPG \\
+                       & \texttt{x}    & Other fuel (type unclear) \\
+\midrule
+\multirow{3}{*}{Suffix} & \texttt{vcu} & Value in current Rupiah (Rp000) \\
+                        & \texttt{ccu} & Cost in current Rupiah (Rp000) \\
+                        & \texttt{kcu} & Physical quantity (units vary by fuel) \\
+\bottomrule
+\end{tabular}
+\caption{Variable naming convention. Fuel type codes are inferred from IBS conventions —
+  variable labels are missing from the \texttt{.dta} file. Verify against questionnaire PDFs.}
+\end{table}
+
+\noindent\textbf{Note:} Variable labels are \textit{all missing} in the raw \texttt{.dta} file. The fuel type
+mappings above are based on standard IBS/SI documentation and need to be confirmed against
+the questionnaire PDFs included in the data folder.
+
+
+\subsection{Electricity}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lllll}
+\toprule
+\textbf{Variable} & \textbf{Description} & \textbf{Coverage} & \textbf{Years} & \textbf{Units} \\
+\midrule
+\texttt{efuvcu} & Electricity expenditure & 93.6\% (542,583 obs) & 1985–2014 & Rp000 \\
+\bottomrule
+\end{tabular}
+\caption{Electricity variable. Nearly complete across all years. \textit{Not} the sum of
+  the fuel variables below — confirmed by low correlation (0.40) and consistently smaller values.}
+\end{table}
+
+
+\subsection{Fuel Variables}
+
+All fuel variables come in pairs: \texttt{zp*} (production use) and \texttt{zn*} (non-production use).
+Monetary values (\texttt{vcu}) are the primary series; physical quantities (\texttt{kcu}) are available
+only for a subset of observations (see Section~\ref{sec:sparse}).
+
+\begin{longtable}{lllll}
+\toprule
+\textbf{Variable} & \textbf{Fuel Type} & \textbf{Use} & \textbf{Non-zero obs} & \textbf{Years} \\
+\midrule
+\endhead
+\texttt{zpdvcu} & Diesel/Solar (HSD) & Production     & 515,623 (89.0\%) & 1990–2014 \\
+\texttt{zndvcu} & Diesel/Solar (HSD) & Non-production & 417,400 (72.0\%) & 1990–2014 \\
+\texttt{zpsvcu} & Kerosene           & Production     & 515,053 (88.9\%) & 1990–2014 \\
+\texttt{znsvcu} & Kerosene           & Non-production & 416,404 (71.9\%) & 1990–2014 \\
+\texttt{zpovcu} & Gasoline           & Production     & 160,715 (27.7\%) & 1990–2014 \\
+\texttt{znovcu} & Gasoline           & Non-production & 109,662 (18.9\%) & 1990–2014 \\
+\texttt{zpivcu} & Coal / Ind. fuel   & Production     & 212,132 (36.6\%) & 1990–2014 \\
+\texttt{znivcu} & Coal / Ind. fuel   & Non-production & 156,310 (27.0\%) & 1990–2014 \\
+\texttt{zpzvcu} & Gas / LPG          & Production     & 172,088 (29.7\%) & 2001–2009 \\
+\texttt{znzvcu} & Gas / LPG          & Non-production & 142,421 (24.6\%) & 2001–2009 \\
+\texttt{zpxvcu} & Other fuel         & Production     & 43,630  ( 7.5\%) & 2005–2009 \\
+\texttt{znxvcu} & Other fuel         & Non-production & 34,302  ( 5.9\%) & 2005–2009 \\
+\bottomrule
+\caption{Fuel variables — monetary values (\texttt{vcu}). Coverage = share of total 579,533 obs
+  with a non-zero, non-missing value.}
+\end{longtable}
+
+
+% ============================================================
+\section{Physical Quantity Variables and the Sparsity Problem}
+\label{sec:sparse}
+
+Each fuel variable has a physical quantity counterpart (\texttt{kcu} suffix) alongside the
+monetary value. These are the variables needed to compute carbon emissions directly. However,
+they are very sparse:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrl}
+\toprule
+\textbf{Variable} & \textbf{Non-zero obs} & \textbf{\% of 579,533} & \textbf{Likely unit} \\
+\midrule
+\texttt{zpdkcu} & 66,728 & 11.5\% & Litres (diesel) \\
+\texttt{zpskcu} & 34,151 &  5.9\% & Litres (kerosene) \\
+\texttt{zpokcu} &  8,877 &  1.5\% & Litres (gasoline) \\
+\texttt{zpikcu} & 33,599 &  5.8\% & Tonnes or kg (coal) \\
+\texttt{zndkcu} & 40,085 &  6.9\% & Litres (diesel) \\
+\texttt{znskcu} & 20,826 &  3.6\% & Litres (kerosene) \\
+\texttt{znokcu} &  4,568 &  0.8\% & Litres (gasoline) \\
+\texttt{znikcu} & 18,000 &  3.1\% & Tonnes or kg (coal) \\
+\bottomrule
+\end{tabular}
+\caption{Physical quantity (\texttt{kcu}) variables. Available mainly post-2000 for a
+  subset of firms. Units are inferred from typical SI survey documentation — confirm
+  against questionnaire PDFs.}
+\end{table}
+
+\noindent\textbf{Implication for carbon conversion:} Because \texttt{kcu} variables are sparse,
+the full-panel carbon emission measure will need to rely on the monetary \texttt{vcu} values
+combined with \textbf{fuel price deflators} (BPS/Pertamina/PLN annual price series by fuel
+type) to back out physical quantities. This adds a step to the pipeline.
+
+
+% ============================================================
+\section{Planned Cleaning Pipeline}
+
+\begin{enumerate}
+  \item \textbf{Verify variable definitions} against questionnaire PDFs in the data folder
+        (years 2000–2014 are available).
+  \item \textbf{Check cross-year consistency}: the SI questionnaire form changed over time;
+        some fuel categories may be merged or split across survey waves.
+  \item \textbf{Harmonise monetary values}: confirm units are Rp000; deflate to a base year
+        using CPI (variable \texttt{cpi} is present in the dataset).
+  \item \textbf{Construct physical quantity series}: use fuel price deflators to convert
+        \texttt{vcu} → physical units where \texttt{kcu} is missing.
+  \item \textbf{Apply emission conversion factors}: multiply physical quantities by
+        fuel-specific $\text{CO}_2$ equivalent factors (source to be documented).
+  \item \textbf{Compute carbon intensity}: total $\text{CO}_2$-equivalent / output value.
+  \item \textbf{Save clean dataset}: \texttt{output/energy\_clean\_8514.dta}.
+\end{enumerate}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\toprule
+\textbf{Do-file} & \textbf{Input} & \textbf{Output} \\
+\midrule
+\texttt{01\_energy\_clean.do}   & \texttt{data8514\_SI.dta} & \texttt{energy\_harmonised.dta} \\
+\texttt{02\_carbon\_convert.do} & \texttt{energy\_harmonised.dta} & \texttt{energy\_clean\_8514.dta} \\
+\bottomrule
+\end{tabular}
+\caption{Planned do-file pipeline}
+\end{table}
+
+
+% ============================================================
+\section{Open Questions}
+
+\begin{enumerate}
+  \item \textbf{Fuel type codes}: Are \texttt{d/s/o/i/z/x} correctly mapped to
+        diesel/kerosene/gasoline/coal/gas/other? Must verify against questionnaires.
+  \item \textbf{Production vs.\ non-production}: Should carbon intensity use production-use
+        energy only (\texttt{zp*}), or total (\texttt{zp*} + \texttt{zn*})?
+  \item \textbf{Gas/LPG gap}: \texttt{zpz/znz} only runs 2001–2009. How should
+        pre-2001 and post-2009 periods be handled?
+  \item \textbf{Electricity units}: Is \texttt{efuvcu} expenditure in Rp000? Does it include
+        both self-generated and PLN-purchased electricity?
+  \item \textbf{\texttt{ccu} vs.\ \texttt{vcu}}: Are the cost (\texttt{ccu}) and value
+        (\texttt{vcu}) variants the same variable recorded in different survey waves, or do
+        they measure different things?
+\end{enumerate}
+
+
+% ============================================================
+\section*{Document History}
+\begin{itemize}[noitemsep]
+  \item 2026-03-11 — Initial version, Session 1 data exploration
+\end{itemize}
+
+\end{document}
