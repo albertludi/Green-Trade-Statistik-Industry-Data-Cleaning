@@ -1,55 +1,34 @@
-# PROJECT INDEX — Green-Trade Statistik Industry Data Cleaning
-_Last updated: 2026-03-11_
+# Project Index — Green-Trade SI Data Cleaning
 
-## Research Context
-**Question:** Do newly internationalizing firms become more energy-efficient?
-**Data:** Indonesian Industrial Survey (IBS/SI) panel, 1985–2014
-**Task:** Clean energy variables → convert to carbon emission equivalents
+## Summary
+Clean energy variables from Indonesian Industrial Survey (SI/IBS) panel 1985–2014 and convert to carbon-equivalent emissions for Mba Deasy's research on export entry and green productivity.
 
-## Data Dictionary (to be filled as variables are identified)
+## Key Files
 
-### Energy Variables
-| Variable Name | Description | Unit | Years Available | Source Questionnaire |
-|--------------|-------------|------|-----------------|---------------------|
-| TBD | Solar/diesel | Liter | TBD | Kuesioner IBS |
-| TBD | Bensin/gasoline | Liter | TBD | Kuesioner IBS |
-| TBD | Electricity | kWh | TBD | Kuesioner IBS |
-| TBD | Minyak tanah/kerosene | Liter | TBD | Kuesioner IBS |
-| TBD | LPG | kg | TBD | Kuesioner IBS |
+| File | Description |
+|------|-------------|
+| `data8514_SI/data8514_SI.dta` | Source data — DO NOT MODIFY |
+| `data8514_SI/*.pdf` | Survey questionnaires (variable definitions by year) |
+| `dofiles/01_energy_clean.do` | Step 1: energy variable cleaning |
+| `dofiles/02_carbon_convert.do` | Step 2: carbon emission conversion |
+| `output/energy_clean_8514.dta` | Clean output (to be created) |
 
-### Key Firm Variables
-| Variable | Description |
-|----------|-------------|
-| TBD | Firm ID |
-| TBD | Year |
-| TBD | Export status (internationalization flag) |
-| TBD | Industry code (KBLI/ISIC) |
-| TBD | Total output / value added |
+## Pipeline
 
-## Carbon Emission Conversion Factors
-_To be confirmed against official source (IPCC, MoEF Indonesia, IEA)_
+```
+data8514_SI.dta
+    → 01_energy_clean.do     (harmonize units, handle missings)
+    → 02_carbon_convert.do   (apply emission factors)
+    → output/energy_clean_8514.dta
+```
 
-| Fuel Type | Factor | Unit |
-|-----------|--------|------|
-| Solar/diesel | ~2.68 | kg CO₂/liter |
-| Bensin/gasoline | ~2.31 | kg CO₂/liter |
-| Kerosene | ~2.54 | kg CO₂/liter |
-| LPG | ~1.51 | kg CO₂/liter |
-| Electricity (Indonesia grid) | ~0.87 | kg CO₂/kWh (verify year-specific) |
+## Variable Notes
+_(to be filled as exploration proceeds)_
 
-## Pipeline Status
-| Step | Script | Status |
-|------|--------|--------|
-| 1. Explore data structure | `dofiles/01_explore.do` | Not started |
-| 2. Clean energy variables | `dofiles/02_clean_energy.do` | Not started |
-| 3. Convert to emissions | `dofiles/03_convert_emissions.do` | Not started |
-| 4. Export clean dataset | — | Not started |
+## Emission Conversion Factors
+_(to be documented — note source/reference for each factor)_
 
-## File Locations
-| Item | Path |
-|------|------|
-| Raw data | `data8514_SI/data8514_SI.dta` |
-| Questionnaires | `data8514_SI/*.pdf` |
-| Do-files | `dofiles/` |
-| Output datasets | `output/` |
-| GitHub | `albertludi/Green-Trade Statistik Industry Data Cleaning` |
+## Decisions Log
+| Date | Decision | Rationale |
+|------|----------|-----------|
+| 2026-03-11 | Project initialized | — |

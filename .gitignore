@@ -1,16 +1,17 @@
 # Large data files — do not commit
 *.dta
 *.zip
-*.parquet
-*.csv
+*.pdf
 
-# macOS
+# Mac system
 .DS_Store
 
-# Stata temp files
-*.stswp
+# Stata temporary files
+*.smcl
+*.log
 ~*.do
+*.stswp
 
-# Output data (can be regenerated)
+# Output data (large)
 output/*.dta
 output/*.csv

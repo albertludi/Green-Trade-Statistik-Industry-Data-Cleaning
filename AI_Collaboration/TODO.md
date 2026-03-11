@@ -1,21 +1,21 @@
-# TODO — Green-Trade Statistik Industry Data Cleaning
+# TODO — Green-Trade SI Data Cleaning
 _Last updated: 2026-03-11_
 
-## Active
-- [ ] Explore `data8514_SI.dta` — identify energy variables across survey years
-- [ ] Map energy variable names to questionnaire definitions (per-year Kuesioner)
-- [ ] Standardize energy quantities to common units
-- [ ] Apply carbon emission conversion factors (per fuel type)
-- [ ] Identify internationalization / first-time exporter flag variable
-- [ ] Validate cleaned energy panel against raw totals
+## Active Tasks
+
+- [ ] Explore energy variables in `data8514_SI.dta` — identify all energy-related columns
+- [ ] Check variable consistency across years (questionnaires differ; see `data8514_SI/*.pdf`)
+- [ ] Map energy types to standard categories (electricity, coal, diesel, LPG, etc.)
+- [ ] Research/confirm emission conversion factors for each energy type (Indonesian context)
+- [ ] Write `01_energy_clean.do` — handle missing values, unit harmonization
+- [ ] Write `02_carbon_convert.do` — apply conversion factors, generate carbon intensity var
+- [ ] Save clean output to `output/energy_clean_8514.dta`
 
 ## Backlog
-- [ ] Document variable crosswalk (year × energy type × variable name)
-- [ ] Write `01_explore.do` — describe data structure, check coverage
-- [ ] Write `02_clean_energy.do` — standardize energy variables
-- [ ] Write `03_convert_emissions.do` — apply emission factors
-- [ ] Export clean dataset to `output/`
 
-## Done
-- [x] Set up project folder structure
-- [x] Connect to GitHub (`albertludi/Green-Trade Statistik Industry Data Cleaning`)
+- [ ] Merge cleaned energy data back to full SI panel for Mba Deasy
+- [ ] Document all variable decisions in `AI_Collaboration/PROJECT_INDEX.md`
+
+## Completed
+
+_(nothing yet)_

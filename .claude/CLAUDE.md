@@ -1,50 +1,51 @@
-# Project: Green-Trade Statistik Industry Data Cleaning
+# Project: Green-Trade — Statistik Industri Data Cleaning
 
 ## Overview
-Cleaning and transforming energy variables from Indonesian Industrial Survey (IBS/SI) data (1985–2014) for analysis of whether newly internationalizing firms become more energy-efficient.
+Data cleaning and processing project for Mba Deasy's research on whether newly internationalizing firms become more energy-efficient (greener). My role is to clean the energy variables in the Indonesian Industrial Survey (SI/IBS) panel and convert them to carbon-equivalent emissions.
 
-**Research question:** Do firms that internationalize for the first time experience gains in energy efficiency / greener energy use?
+## Research Question
+Do firms that first internationalize (begin exporting/importing) subsequently improve their energy efficiency or reduce carbon intensity?
 
-**My role:** Data cleaning — standardize energy variables, convert to comparable carbon emission equivalents.
-
-## Project Status
-- Phase: Data cleaning (active)
-- PI: Mba Deasy (main author)
+## My Task
+- Clean energy consumption variables from the SI panel (1985–2014)
+- Convert energy types (electricity, fuel, etc.) to carbon-equivalent emissions
+- Produce a clean, analysis-ready dataset for Mba Deasy
 
 ## Data
+
 | File | Description |
 |------|-------------|
-| `data8514_SI/data8514_SI.dta` | Main Stata panel: Indonesian Industrial Survey 1985–2014 (~344MB) |
-| `data8514_SI/*.pdf` | Survey questionnaires (Kuesioner IBS) per year — use for variable definitions |
+| `data8514_SI/data8514_SI.dta` | Raw Stata panel, Indonesian Industrial Survey 1985–2014 (~344MB) |
+| `data8514_SI/*.pdf` | Survey questionnaires by year (variable definitions) |
 
-**Key data notes:**
-- Panel of manufacturing firms (Industri Besar dan Sedang)
-- Energy variables: fuel types (solar, bensin, minyak tanah, etc.), electricity — need to locate variable names in each wave
-- Conversion target: carbon emission equivalents (CO₂e or similar)
-- Internationalization flag: export status variable (to identify first-time exporters)
+**Key variables to focus on:** energy consumption items (electricity, coal, diesel, gasoline, LPG, etc.) and firm identifiers (plant ID, year, export/import status).
 
-## Folder Map
+## Folder Structure
 ```
 Mba Deasy-Green Project/
-├── data8514_SI/       ← raw data (DO NOT modify)
-├── dofiles/           ← Stata do-files (cleaning, transformation)
-├── output/            ← cleaned datasets, derived variables
-├── AI_Collaboration/  ← TODO.md, project index, session notes
-│   └── Transcripts/
-└── .claude/           ← this config
+├── data8514_SI/           ← raw data (never modify)
+├── dofiles/               ← Stata do-files (cleaning pipeline)
+├── output/                ← cleaned/derived datasets (.dta, .csv)
+├── AI_Collaboration/      ← TODO.md, session notes, transcripts
+└── .claude/               ← this file
 ```
 
+## Tools
+- **Stata** — primary tool for all data work
+- **Python** — if needed for auxiliary tasks (e.g., emission factor lookups)
+- Do NOT modify raw data in `data8514_SI/`
+
 ## Stata Conventions
-- Use `python3` for any preprocessing; Stata for main analysis
-- Do-file naming: `01_explore.do`, `02_clean_energy.do`, `03_convert_emissions.do`
-- Always preserve raw data — save cleaned versions to `output/`
-- Comment do-files with variable source (questionnaire year, variable name)
+- Use `data8514_SI/data8514_SI.dta` as the source; save outputs to `output/`
+- Name do-files descriptively: `01_energy_clean.do`, `02_carbon_convert.do`, etc.
+- Comment all variable transformations; note emission factor sources
 
 ## GitHub
-- Repo: `albertludi/Green-Trade Statistik Industry Data Cleaning`
-- Branch: `main`
-- Excluded from git: `.dta`, `.zip`, large data files (see `.gitignore`)
+- Repo: `Green-Trade Statistik Industry Data Cleaning` (github.com/albertludi)
+- Large files (.dta, .zip, .pdf) are gitignored — only commit do-files, outputs, and docs
 
-## Key Tasks
-See `AI_Collaboration/TODO.md` for current task list.
-See `AI_Collaboration/PROJECT_INDEX.md` for variable notes and pipeline status.
+## Project Status
+- [ ] Explore energy variables in raw data
+- [ ] Map energy types across survey years (questionnaires differ by year)
+- [ ] Apply emission conversion factors
+- [ ] Produce clean panel: firm × year × carbon intensity
