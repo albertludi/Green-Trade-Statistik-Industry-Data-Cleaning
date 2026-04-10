@@ -1,0 +1,29 @@
+Cluster weighted average primary energy intensity (GJ per million constant 2015 IDR final demand).Year,Cluster weighted average primary energy intensity (GJ per million constant 2015 IDR final demand).,Cluster weighted average primary energy intensity (GJ per million constant 2015 IDR final demand).Non-energy clusters,Direct,Indirect,Total,Portion of indirect energy
+2010,1,"Agriculture, forestry and fisheries",0.01,0.04,0.05,87%
+,2,Non-energy mining and quarrying,0.02,0.05,0.07,72%
+,3,"Foods, beverages and tobacco products",0.04,0.09,0.13,69%
+,4,Textile and leather products,0.44,0.30,0.74,40%
+,5,"Pulp, paper and wood products",0.66,0.30,0.96,31%
+,6,Chemical products,0.38,0.10,0.48,21%
+,7,Non-metallic mineral products,4.48,0.17,4.64,4%
+,8,Metals and metal products,1.36,0.32,1.67,19%
+,9,Machinery and electrical,0.19,0.38,0.57,67%
+,10,Transport equipment,0.14,0.31,0.45,69%
+,11,Other manufacturing products,0.33,0.29,0.62,47%
+,12,"Construction, water, and waste",0.35,0.66,1.02,65%
+,13,Transportation,0.59,0.23,0.82,28%
+,14,Services,0.18,0.15,0.33,46%
+2016,1,"Agriculture, forestry and fisheries",0.01,0.05,0.06,89%
+,2,Non-energy mining and quarrying,0.02,0.19,0.21,90%
+,3,"Foods, beverages and tobacco products",0.05,0.09,0.14,65%
+,4,Textile and leather products,0.36,0.47,0.82,57%
+,5,"Pulp, paper and wood products",0.73,0.32,1.05,31%
+,6,Chemical products,0.30,0.21,0.50,41%
+,7,Non-metallic mineral products,3.50,0.34,3.84,9%
+,8,Metals and metal products,1.36,0.47,1.84,26%
+,9,Machinery and electrical,0.22,0.32,0.55,59%
+,10,Transport equipment,0.14,0.52,0.66,79%
+,11,Other manufacturing products,0.05,0.59,0.64,92%
+,12,"Construction, water, and waste",0.48,0.67,1.14,58%
+,13,Transportation,0.50,0.16,0.65,24%
+,14,Services,0.14,0.13,0.27,49%

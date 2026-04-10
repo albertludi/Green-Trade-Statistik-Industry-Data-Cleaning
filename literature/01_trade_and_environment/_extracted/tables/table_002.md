@@ -1,0 +1,36 @@
+|                                   |        | MNEs   | MNEs             | MNEs             | MNEs            |
+|-----------------------------------|--------|--------|------------------|------------------|-----------------|
+| Industry, by fuel and year        | SOEs   | All    | Minority foreign | Majority foreign | Heavily foreign |
+| Total energy                      |        |        |                  |                  |                 |
+| 12 highest energy consumers, 1996 | 1.110  | -2.429 | -2.195           | -2.375           | -2.584          |
+| Food &beverages                   | 1.785  | -2.463 | -2.207           | -2.362           | -2.748          |
+| Textiles                          | 4.417  | 0.310  | 0.097            | 0.805            | -0.210          |
+| Apparel                           | -1.218 | -0.309 | -0.930           | -0.512           | -0.097          |
+| Wood products                     | -0.700 | -1.460 | -2.284           | -1.276           | -1.340          |
+| Paper products                    | 7.782  | 1.417  | -2.337           | 1.682            | 2.764           |
+| Chemicals                         | 3.234  | -2.544 | -1.942           | -2.652           | -2.658          |
+| Rubber &plastic products          | -2.600 | -2.359 | -2.837           | -2.648           | -1.953          |
+| Non-metallic mineral products     | -3.096 | -5.821 | -2.059           | -7.570           | -5.698          |
+| Basic metals                      | -0.083 | -1.187 | -3.367           | -0.690           | -1.089          |
+| Electronics-related machinery     | 1.334  | -0.248 | -1.175           | -0.212           | -0.138          |
+| Motor vehicles                    | 1.540  | -1.537 | -1.603           | -1.278           | -2.487          |
+| Other transportation machinery    | -2.140 | -1.637 | -1.795           | -1.494           | -1.721          |
+| 12 highest energy consumers, 2006 | 0.224  | -1.253 | -0.208           | -1.040           | -1.434          |
+| Food &beverages                   | 0.717  | -1.259 | 5.238            | -0.589           | -2.460          |
+| Textiles                          | 4.315  | 0.405  | 2.211            | 1.910            | -0.477          |
+| Apparel                           | 4.630  | 1.834  | -2.087           | 5.509            | 1.595           |
+| Wood products                     | -1.275 | -1.985 | -3.392           | -2.713           | -1.631          |
+| Paper products                    | 2.543  | -0.272 | -3.088           | 2.941            | -0.556          |
+| Chemicals                         | -1.922 | -2.170 | -2.017           | -2.769           | -1.850          |
+| Rubber &plastic products          | -2.746 | -1.097 | -2.246           | -1.834           | -0.705          |
+| Non-metallic mineral products     | -2.775 | -4.293 | -5.326           | -5.884           | -2.526          |
+| Basic metals                      | 1.466  | 0.054  | -1.087           | -0.549           | 0.590           |
+| Electronics-related machinery     | -2.747 | 0.175  | -2.620           | -0.935           | 0.442           |
+| Motor vehicles                    | -      | -0.426 | 4.704            | -1.398           | -0.930          |
+| Other transportation machinery    | -1.659 | -0.295 | -5.228           | -1.811           | 0.463           |
+| Natural gas                       |        |        |                  |                  |                 |
+| 8 highest gas consumers, 1996     | -0.027 | 0.103  | 0.112            | 0.218            | -0.087          |
+| 8 highest gas consumers, 2006     | 0.006  | 0.152  | 0.058            | 0.225            | 0.128           |
+| Coal                              |        |        |                  |                  |                 |
+| 4 highest coal consumers, 1996    | 0.216  | 0.039  | 0.277            | 0.005            | -0.018          |
+| 4 highest coal consumers, 2006    | 0.252  | 0.112  | 0.702            | 0.134            | 0.020           |

@@ -1,0 +1,132 @@
+isic4,ihpb_sub,ihpb_sub2,isic4_description,notes
+1511,1,,"Production, processing and preserving of meat and meat products",Pengolahan Daging
+1512,2,,Processing and preserving of fish and fish products,Pengolahan Ikan
+1513,3,,Processing and preserving of fruit and vegetables,Pengolahan Buah & Sayur
+1514,4,,Manufacture of vegetable and animal oils and fats,Minyak Makan & Lemak
+1521,5,,Manufacture of dairy products [KBLI sub of ISIC 1520],Susu & Produk Susu
+1531,6,,Manufacture of grain mill products,Penggilingan Padi-Padian
+1532,6,,Manufacture of starches and starch products,Tepung — same as grain mill
+1533,8,,Manufacture of prepared animal feeds,Makanan Hewan
+1541,7,,Manufacture of bakery products,Makanan Lainnya (bakery/sugar)
+1542,7,,Manufacture of sugar,
+1543,7,,"Manufacture of cocoa, chocolate and sugar confectionery",
+1544,7,,"Manufacture of macaroni, noodles, couscous and similar farinaceous products",
+1549,7,,Manufacture of other food products n.e.c.,
+1551,9,,"Distilling, rectifying and blending of spirits; ethyl alcohol production from fermented materials",Minuman
+1552,9,,Manufacture of wines,
+1553,9,,Manufacture of malt liquors and malt,
+1554,9,,Manufacture of soft drinks; production of mineral waters,
+1600,10,,Manufacture of tobacco products,Tembakau
+1711,11,,Preparation and spinning of textile fibres; weaving of textiles,Pemintalan & Penenunan
+1712,11,,Finishing of textiles,
+1721,12,,"Manufacture of made-up textile articles, except apparel",Tekstil Lainnya
+1722,12,,Manufacture of carpets and rugs,
+1723,12,,"Manufacture of cordage, rope, twine and netting",
+1729,12,,Manufacture of other textiles n.e.c.,
+1730,12,,Manufacture of knitted and crocheted fabrics and articles,Tekstil Lainnya (knitting/finishing) — shares WPI with 1740
+1740,12,,"Manufacture of other textiles (finishing, dyeing, laminating) [KBLI sub, no ISIC Rev.3 equivalent]",
+1810,13,,"Manufacture of wearing apparel, except fur apparel",Pakaian Jadi — shares WPI with 1820
+1820,13,,Dressing and dyeing of fur; manufacture of articles of fur,
+1911,14,15,Tanning and dressing of leather,Kulit & Barang Kulit — shares WPI with 1920; avg(IHPB14+IHPB15)
+1912,14,15,"Manufacture of luggage, handbags and the like, saddlery and harness",
+1920,14,15,Manufacture of footwear,Alas Kaki — shares WPI with 191x; avg(IHPB14+IHPB15)
+2010,16,,Sawmilling and planing of wood,Penggergajian Kayu
+2021,17,,"Manufacture of veneer sheets; manufacture of plywood, laminboard, particle board and other panels and boards",Barang dari Kayu (veneer/plywood)
+2022,17,,Manufacture of builders' carpentry and joinery,Barang dari Kayu — shares WPI group
+2023,17,,Manufacture of wooden containers,
+2029,17,,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
+2101,18,,"Manufacture of pulp, paper and paperboard",Kertas & Pulp
+2102,18,,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,
+2109,18,,Manufacture of other articles of paper and paperboard,
+2211,19,,"Publishing of books, brochures, musical books and other publications",Pencetakan & Penerbitan — shares WPI group with 222x+223x
+2212,19,,"Publishing of newspapers, journals and periodicals",
+2213,19,,Publishing of recorded media,
+2214,19,,Other publishing activities n.e.c. [KBLI sub of ISIC 2219],
+2219,19,,Other publishing,
+2221,19,,Printing,
+2222,19,,Service activities related to printing,
+2230,19,,Reproduction of recorded media,
+2310,20,,Manufacture of coke oven products,Produk Pengilangan Minyak — shares WPI with 2320+2330
+2320,20,,Manufacture of refined petroleum products,
+2330,20,,Processing of nuclear fuel,
+2411,21,,"Manufacture of basic chemicals, except fertilizers and nitrogen compounds",Bahan Kimia Dasar
+2412,21,,Manufacture of fertilizers and nitrogen compounds,
+2413,21,,Manufacture of plastics in primary forms and of synthetic rubber,
+2421,22,,Manufacture of pesticides and other agro-chemical products,Barang Kimia Lainnya
+2422,22,,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",
+2423,22,,"Manufacture of pharmaceuticals, medicinal chemicals and botanical products",
+2424,22,,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",
+2429,22,,Manufacture of other chemical products n.e.c.,
+2430,22,,Manufacture of man-made fibres,Man-made fibres — assigned to Other Chemicals (no IHPB sub for fibres)
+2511,24,,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres,Karet & Barang dari Karet
+2512,24,,Manufacture of other rubber products [KBLI sub of ISIC 2519],
+2519,24,,Manufacture of other rubber products,
+2520,25,,Manufacture of plastics products,Barang dari Plastik
+2611,26,,Manufacture of flat glass [KBLI sub of ISIC 2610],Kaca & Barang dari Kaca
+2612,26,,Manufacture of glass containers and other glass products [KBLI sub of ISIC 2610],
+2620,27,,"Manufacture of ceramic tiles, flags and related products [KBLI sub; cf. ISIC 2693]",Keramik/Galian Bukan Logam — shares WPI with 263x
+2631,27,,Manufacture of refractory ceramic products [KBLI sub; cf. ISIC 2692],
+2632,27,,Manufacture of structural non-refractory clay and ceramic products [KBLI sub; cf. ISIC 2693],
+2641,27,,Manufacture of cement [KBLI sub of ISIC 2694],Semen & Beton
+2642,27,,"Manufacture of articles of concrete, cement and plaster [KBLI sub; cf. ISIC 2695]",
+2650,27,,"Cutting, shaping and finishing of stone [KBLI sub; cf. ISIC 2696]",
+2660,27,,Manufacture of abrasive products and other non-metallic mineral products [KBLI sub; cf. ISIC 2699],
+2690,27,,Manufacture of other non-metallic mineral products n.e.c. [KBLI; cf. ISIC 2699],
+2710,28,,Manufacture of basic iron and steel,Logam Dasar Besi & Baja
+2720,29,,Manufacture of basic precious and non-ferrous metals,Logam Dasar Mulia/Non-Ferrous — shares WPI with 273x
+2731,29,,Casting of iron and steel,
+2732,29,,Casting of non-ferrous metals,
+2811,30,31,Manufacture of structural metal products,Barang Logam Struktural — shares WPI group; avg(IHPB30+IHPB31)
+2812,30,31,"Manufacture of tanks, reservoirs and containers of metal",
+2891,30,31,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",Barang Logam Lainnya — shares WPI group; avg(IHPB30+IHPB31)
+2892,30,31,Treatment and coating of metals; general mechanical engineering on a fee or contract basis,
+2893,30,31,"Manufacture of cutlery, hand tools and general hardware",
+2899,31,,Manufacture of other fabricated metal products n.e.c.,Barang Logam Lainnya (singleton)
+2911,41,,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",Mesin Umum
+2912,41,,"Manufacture of pumps, compressors, taps and valves",
+2913,41,,"Manufacture of bearings, gears, gearing and driving elements",
+2914,41,,"Manufacture of ovens, furnaces and furnace burners",
+2915,41,,Manufacture of lifting and handling equipment,
+2919,41,,Manufacture of other general purpose machinery,
+2921,42,40,Manufacture of agricultural and forestry machinery,Mesin Khusus — shares WPI with 2930; avg(IHPB40+IHPB42)
+2922,42,40,Manufacture of machine-tools,
+2923,42,40,Manufacture of machinery for metallurgy,
+2924,42,40,"Manufacture of machinery for mining, quarrying and construction",
+2925,42,40,"Manufacture of machinery for food, beverage and tobacco processing",
+2926,42,40,"Manufacture of machinery for textile, apparel and leather production",
+2927,42,40,Manufacture of weapons and ammunition,
+2929,42,40,Manufacture of other special purpose machinery,
+2930,40,42,Manufacture of domestic appliances n.e.c.,Peralatan Rumah Tangga — shares WPI with 292x; avg(IHPB40+IHPB42)
+3000,32,,"Manufacture of office, accounting and computing machinery",Komputer & Perlengkapannya
+3110,37,,"Manufacture of electric motors, generators and transformers",Motor Listrik & Generator — shares WPI with 3120+3190
+3120,37,,Manufacture of electricity distribution and control apparatus,
+3130,39,,Manufacture of insulated wire and cable,Kabel & Perlengkapan
+3140,38,,"Manufacture of accumulators, primary cells and primary batteries",Batu Baterai & Akumulator
+3150,37,,Manufacture of electric lamps and lighting equipment,Lampu Listrik — assigned to electrical equipment
+3190,37,,Manufacture of other electrical equipment n.e.c.,
+3210,33,36,Manufacture of electronic valves and tubes and other electronic components,Komponen Elektronik — avg(IHPB33+IHPB36)
+3220,33,,Manufacture of television and radio transmitters and apparatus for line telephony and line telegraphy,Peralatan Audio & Video
+3230,33,,"Manufacture of television and radio receivers, sound or video recording or reproducing apparatus, and associated goods",Perlengkapan Komunikasi
+3311,34,50,Manufacture of medical and surgical equipment and orthopaedic appliances,Alat Ukur & Medis — shares WPI group; avg(IHPB34+IHPB50)
+3312,34,50,"Manufacture of instruments and appliances for measuring, checking, testing, navigating and other purposes, except industrial process control equipment",
+3313,34,50,Manufacture of industrial process control equipment,
+3320,34,50,Manufacture of optical instruments and photographic equipment,Instrumen Optik — shares WPI group
+3330,34,50,Manufacture of watches and clocks,Jam & Arloji — shares WPI group
+3410,43,,Manufacture of motor vehicles,Kendaraan Bermotor
+3420,44,,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,Body Kendaraan — shares WPI with 3430
+3430,44,,Manufacture of parts and accessories for motor vehicles and their engines,Suku Cadang Kendaraan — shares WPI with 3420
+3511,45,,Building and repairing of ships,Kapal & Perahu — shares WPI with 3512+3520
+3512,45,,Building and repairing of pleasure and sporting boats,
+3520,45,,Manufacture of railway and tramway locomotives and rolling stock,Kereta Api
+3530,45,,Manufacture of aircraft and spacecraft,Pesawat Terbang
+3591,45,,Manufacture of motorcycles,Alat Angkutan Lainnya (motor cycle)
+3592,45,,Manufacture of bicycles and invalid carriages,
+3599,45,,Manufacture of other transport equipment n.e.c.,
+3610,46,,Manufacture of furniture,Furnitur
+3691,47,48,Manufacture of jewellery and related articles,Perhiasan & Barang Berharga — avg(IHPB47+48+49)
+3692,47,48,Manufacture of musical instruments,
+3693,47,48,Manufacture of sports goods,Alat Musik — shares WPI group
+3694,47,48,Manufacture of games and toys,
+3699,47,48,Other manufacturing n.e.c.,
+3710,CAGR,,Recycling of metal waste and scrap,Daur Ulang Logam — no IHPB sub-sector available
+3720,CAGR,,Recycling of non-metal waste and scrap,Daur Ulang Non-Logam — no IHPB sub-sector available

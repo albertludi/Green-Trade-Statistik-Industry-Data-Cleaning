@@ -1,0 +1,7 @@
+| Technology intensity   |   D str | D int   | D mix   |   D emf | D tot   | Decoupling effect   |
+|------------------------|---------|---------|---------|---------|---------|---------------------|
+| High                   |    1.11 | -1.21   | -0.05   |       0 | -0.15   | No decoupling       |
+| Medium-high            |   -0.07 | -0.71   | -0.06   |       0 | -0.84   | No decoupling       |
+| Medium                 |    0.3  | -1.11   | -0.13   |       0 | -0.93   | No decoupling       |
+| Medium-low             |   -0.19 | 0.26    | -0.01   |       0 | 0.05    | Relative decoupling |
+| Total                  |    0.03 | - 0.42  | - 0.06  |       0 | - 0.46  | No decoupling       |

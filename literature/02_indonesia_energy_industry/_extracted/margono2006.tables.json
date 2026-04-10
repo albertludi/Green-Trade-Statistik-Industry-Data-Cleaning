@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "slug": "table_001",
+    "flagged": true,
+    "page": 8
+  },
+  {
+    "id": 2,
+    "slug": "table_002",
+    "flagged": true,
+    "page": 9
+  },
+  {
+    "id": 3,
+    "slug": "table_003",
+    "flagged": false,
+    "page": 10
+  },
+  {
+    "id": 4,
+    "slug": "table_004",
+    "flagged": false,
+    "page": 11
+  },
+  {
+    "id": 5,
+    "slug": "table_005",
+    "flagged": false,
+    "page": 13
+  },
+  {
+    "id": 6,
+    "slug": "table_006",
+    "flagged": false,
+    "page": 14
+  }
+]

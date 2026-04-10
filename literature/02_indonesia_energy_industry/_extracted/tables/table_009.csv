@@ -1,0 +1,46 @@
+Sector code,Industrial sectors,Cluster,Cluster code,Sector code,Industrial sectors,Cluster,Cluster code
+1,Coal,Primary energy,A,45,Fertiliser,Chemical products,6
+2,Natural gas,extraction,,46,Drugs and medicine and,,
+3,Crude petroleum,,,47,"Soap, detergent, toilettries",,
+4,Firewood (biomass),,,48,Other chemical,,
+5,Industrial and general waste,,,49,products Rubber products,,
+6,Geothermal,,,50,Plastic products,,
+7,Hydropower,,,51,Cement,Non-metallic mineral,7
+8,Liquified natural gas,Oil and gas refinery and processing,B,52,Glass and glass products,products,
+9,Avgas,,,53,Other nonmetallic mineral products,,
+10,Avtur (kerosene jet fuel),,,54,Metals and metal products,Metals and metal products,8
+11,Motor gasoline,,,55,Household electrical,Machinery and electrical,9
+12,Kerosene,,,56,appliances Other electrical,equipment,
+13,Diesel oil,,,57,applicances Other machinery and equipment,,
+14,Fuel oil (FO),,,58,Motor vehicle,Transport equipment,10
+15,Liquified petroleum gas,,,59,Shipbuilding and repairing,,
+16,Naphta,,,60,Other transport,,
+17,Town gas,,,61,equipment Precision instruments,Other manufacturing,11
+18,Coal products,Coal transformation,C,62,Other manufactured,products,
+19,Electricity,Electricity,D,63,products Water supply (incl.,"Construction, water, and waste",12
+20,Paddy,"Agriculture, forestry,",1,64,"sewage, etc.) Buildings",,
+21,Fruits,and fisheries,,65,Civil engineering,,
+22,Dairy farming and livestock raising,,,66,Railway transport,Transportation,13
+23,Other edible crops,,,67,Road transport,,
+24,Non-edible crops,,,68,Water transport,,
+25,Agricultural services Fishery (incl. hunting),,,69,Air transport,,
+26,,,,70,Other transport and services,,
+27,Fishing,,,71,related Commerce,Services,14
+28,Metal ores mining,Non-energy mining and,2,72,Restaurants,,
+29 30,Non-metallic ores mining Dairy products,"quarrying Foods, beverages, and",3,73 74,Hotels and accommodation Postal and,,
+31,Meat and meat products,tobacco products,,75,telecommunication Financial and,,
+32,Other foods,,,76,insurance services,,
+33,Animal feeds,,,77,Real estate services Business services,,
+34,Tea and coffee,,,78,Public administration,,
+35,Beverages,,,79,Education,,
+36,Tobacco,,,,Medical and,,
+,,,,80,health services,,
+37,Spinning and weaving,Textile and leather products,4,81,Repair or motor vehicles,,
+38,Knitting,,,82,"Other repairs, n.e.c.",,
+39,Wearing apparel and other,,,83,"Other services, n.e.c.",,
+40,textile products Leather and leather,,,,,,
+,products,,,,,,
+41,Timber and wooden products,"Pulp, paper, and wood products",5,,,,
+42,Wooden furniture,,,,,,
+43,"Pulp, paper, and paper products",,,,,,
+44,Printing and publishing,,,,,,

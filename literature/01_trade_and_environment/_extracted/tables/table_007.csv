@@ -1,0 +1,9 @@
+,/g2009 /g3548 /g3032
+ln ( electricity price),-0.624*** 0.118
+ln ( kerosene price),-0.196** 0.072
+ln ( LPG price),-0.138 0.186
+ln ( petrol price),-0.245 0.214
+ln ( diesel price),-0.155 0.093
+industry dummies province dummies,YES YES
+N,"36,758"
+adjusted R 2,0.021
