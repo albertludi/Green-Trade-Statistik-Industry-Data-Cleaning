@@ -1,0 +1,313 @@
+EXTRACTED: Kuesioner Industri 2002
+Source: Kuesioner Industri 2002.pdf
+Pages: 13
+Document Type: Indonesian Annual Manufacturing Survey Questionnaire (Bilingual: Indonesian/English)
+Extracted: 2026-03-11
+Method: Read tool
+
+========================================
+
+SURVEI TAHUNAN PERUSAHAAN INDUSTRI PENGOLAHAN 2002
+2002 ANNUAL MANUFACTURING SURVEY
+
+REPUBLIK INDONESIA — BADAN PUSAT STATISTIK
+Form: Daftar Isian / Questionaire II-A
+Classification: RAHASIA / CONFIDENTIAL
+KIP: [blank field]
+
+---
+
+COVER PAGE — IDENTIFICATION
+
+1. Propinsi / Province: ....................................
+2. Kab/Kota*) / Regency/Municipality: ....................................
+3. Kota Administratip / Administrative City: ....................................
+4. Kecamatan / Sub-regency: ....................................
+5. Desa/Kelurahan / Village: ....................................
+6. Tahun Survei / Survey Year: 0 2
+
+7. Nama Lengkap Perusahaan / Name of Company: ....................................
+8. Alamat Perusahaan/Unit Produksi / Address of Company: ....................................
+   Kode Pos / Postal Code: [blank]   E-mail: ........ Tel: ( ) ........ Fax: ( ) ........
+9. Alamat Kantor Pusat / Mailing Address: ....................................
+   Kode Pos / Postal Code: [blank]   Tel: ( ) ........ Fax: ( ) ........ E-mail: ........
+
+*) Coret yang tidak perlu / Cross out if not valid
+
+■ Tujuan Survei / Objective of the Survey:
+To obtain reliable and accurate data for development planning.
+
+■ Dasar Hukum / Legal Status:
+Implementation of the survey is based on the Law no. 16 on Statistics, 1997.
+
+■ Kerahasiaan / Confidentiality:
+Confidentiality of the data is guaranteed under the Law no. 16 on Statistics, 1997.
+
+Perhatian / Attention: The survey is free of charge.
+
+■ Perlu Keterangan / For Further Information:
+Hubungi / Please contact: DR. Suryamin
+   Direktorat Statistik Industri BPS
+   Jl. Dr. Sutomo 8 Jakarta, 10710.
+   Telpon: (021) 3810291, 3841195 extension. 5210, Fax: (021) 386-3816.
+   E-mail: suryamin@mailhost.bps.go.id
+
+---
+
+PAGE 2 — INSTRUCTIONS / PETUNJUK PENGISIAN
+
+[Same as 2001 — definitions of manufacturing establishment, manufacturing services, scope limitation, value in thousands of rupiahs. Example year updated to 2002, reference question updated to Part II Rincian 8.a.]
+
+---
+
+BAGIAN/PART I: KETERANGAN UMUM / GENERAL INFORMATION
+
+1. Periode data yang dilaporkan / Time reference of data reported.
+
+| Jan | Feb | Mar | Apr | Mei | Jun | Jul | Agt | Sept | Okt | Nop | Des |
+|-----|-----|-----|-----|-----|-----|-----|-----|------|-----|-----|-----|
+|     |     |     |     |     |     |     |     |      |     |     |     |
+
+2. Produksi Utama perusahaan industri ini / Main product of this manufacturing establishment: [blank field]
+   Bila lebih dari 1 jenis industri, tuliskan barang yang diproduksi yang mempunyai nilai produksi terbesar / If the company produce more than one commodity, please choose the one having the largest production value.
+   [BPS code boxes: blank]
+
+3. Persentase permodalan / Percentage of capital owned by:
+   a. Pemerintah Pusat / Central Government: [blank] %
+   c. Swasta Nasional / National Private: [blank] %
+   b. Pemerintah Daerah / Local Government: [blank] %
+   d. Asing / Foreign: [blank] %
+   Jumlah/Total (a+b+c+d): 100.00 %
+
+4. Banyaknya gelombang kerja / Number of working shifts: [blank]
+
+5. Banyaknya pekerja/karyawan rata-rata per hari kerja baik pekerja yang dibayar maupun tidak dibayar selama tahun 2002 / Average number of paid and unpaid workers per working day during 2002.
+
+| | Pekerja Produksi / Production Workers | Pekerja Lainnya / Other Workers |
+|---|---|---|
+| Laki-laki / Male | | |
+| Perempuan / Female | | |
+| Jumlah / Total | | |
+
+[Definitions of Production workers and Other workers — bilingual, same as previous years]
+
+---
+
+BAGIAN/PART II: PENGELUARAN / EXPENSES
+
+[Definition of "Other Incentive" — same as 2001: includes overtime, bonuses, pension, social security, accident insurance, paid to relevant institutions during 2002.]
+
+6. Pengeluaran untuk pekerja/karyawan selama tahun 2002 / Wage/salary of workers in 2002:
+
+| | Upah/gaji / Wage/salary (Rp) | Insentif lainnya / Other incentive (Rp) | Jumlah / Total (Rp) |
+|---|---|---|---|
+| a. Pekerja Produksi / Production Workers | 000 | 000 | 000 |
+| b. Pekerja Lainnya / Others Workers | 000 | 000 | 000 |
+
+7. Bahan bakar dan pelumas / Fuel and lubricants
+   Banyaknya dan nilai seluruh bahan bakar dan pelumas yang betul-betul dipakai selama tahun 2002 / Quantity and value of fuel and lubricants used during 2002:
+
+| Jenis bahan bakar / Kind of fuel and lubricants | Satuan Standar / Standard Unit | Seluruhnya Total — Banyaknya / Quantity | Nilai/Value (Rp) | Untuk pembangkit tenaga listrik — Banyaknya / Quantity | Nilai/Value (Rp) |
+|---|---|---|---|---|---|
+| a. Bensin/Premium/Gasoline | Ltr | | 000 | | 000 |
+| b. Solar/HSD/ADO/Diesel fuel/HSD/ADO | Ltr | | 000 | | 000 |
+| c. Minyak Diesel/IDO/Diesel oil/IDO | Ltr | | 000 | | 000 |
+| d. Minyak Bakar/FO/Bunker C/MFO/Fuel oil/FO/Bunker C/MFO | Ltr | | 000 | | 000 |
+| e. Bahan bakar lainnya / Other fuels | | | 000 | | |
+| f. Pelumas / Lubricant | Ltr | | 000 | | 000 |
+| Jumlah/Total | | | 000 | | 000 |
+
+Bahan bakar lainnya terdiri dari: Minyak Tanah, Batubara, kokas, gas PNG, LPG, bahan bakar lainnya / Kerosene, coal, coke, gas from state owned gas company, LPG, others fuels.
+
+8. Pengeluaran lain selama tahun 2002 / Other Expenses during 2002:
+
+| Item | Nilai/Value (Rp) |
+|---|---|
+| a). Pengeluaran untuk sewa atau kontrak / Rental or contract Payments | |
+| 1). Gedung, mesin, serta alat-alat / Building, machinery and tools. | 000 |
+| 2). Tanah / Land. | 000 |
+| b). Pajak tak langsung / Indirect taxes | 000 |
+| c). Bunga atas pinjaman / Interest paid on loan | 000 |
+| d). Hadiah, sumbangan, derma dan sejenisnya / Gifts, charitable contributions, donations, etc | 000 |
+| e). Lainnya / Others | 000 |
+| Jumlah/Total | 000 |
+
+[Notes on rental, indirect taxes, and "Others" — same as 2001]
+
+9. Bahan baku dan bahan penolong / Raw materials
+   BAHAN BAKU DAN BAHAN PENOLONG YANG DIPAKAI SELAMA TAHUN 2002 / MATERIALS USED DURING 2002
+
+| No. | NAMA BAHAN / Name of materials | SATUAN STANDAR / Standard Unit | BERASAL DARI PRODUKSI DALAM NEGERI Domestic — BANYAKNYA / Quantity | Domestic — NILAI/Value (Rp) | BERASAL DARI IMPOR Imported — BANYAKNYA / Quantity | Imported — NILAI/Value (Rp) | JUMLAH Total — BANYAKNYA / Quantity | Total — NILAI/Value (Rp) |
+|-----|---|---|---|---|---|---|---|---|
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) |
+| 1–5. | [blank rows with HS Code fields] | | | 000 each | | 000 each | | 000 each |
+| | Sub Jumlah/Sub Total | | | 000 | | 000 | | 000 |
+| (continued to next page) | | | | | | | | |
+| Sub Jumlah/Sub Total (from page 7) | | | 000 | | 000 | | 000 |
+| 6–11. | [blank rows with HS Code fields] | | | 000 each | | 000 each | | 000 each |
+| | Sub Jumlah/Sub Total | | | 000 | | 000 | | 000 |
+
+[Note: Grand Total (Jumlah/Total) appears on the following production page]
+
+---
+
+BAGIAN/PART III. PRODUKSI (BARANG YANG DIHASILKAN) / PRODUCTION (GOODS PRODUCED)
+
+a. Apakah ada produksi yang diekspor, baik yang diekspor sendiri atau pihak lain?
+   Does this establishment export any of its products (by own or others)?
+   Ya/Yes — 1       2. Tidak/No   [box]
+
+b. Sebutkan semua produksi yang dihasilkan atau kode HS-nya selama tahun 2002 dirinci menurut jenis barang, banyaknya, dan nilai / State all goods produced or HS code during 2002 (by product name, quantity, value and percentage exported).
+
+| No. | Nama barang yang dihasilkan / Name of goods produced | Kode HS / HS Code | Satuan Standar / Standard unit | Banyaknya / Quantity | Nilai/Value (Rp) | Persentase yang di ekspor / percentage of goods exported |
+|-----|---|---|---|---|---|---|
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) |
+| 1–9. | [blank rows] | | | | 000 each | |
+| | Sub Jumlah/Sub Total | | | | 000 | |
+| (continued to next page) | | | | | | |
+| 10–20. | [blank rows] | | | | 000 each | |
+| | Jumlah/Total | | | | 000 | |
+
+11. Persentase realisasi produksi selama tahun 2002 terhadap kapasitas terpasang / Percentage of actual production to production capacity during 2002: [blank] %
+
+---
+
+BAGIAN/PART IV. PENDAPATAN/PENERIMAAN LAIN YANG DITERIMA SELAMA TAHUN 2002 / OTHER INCOME RECEIVED DURING 2002
+
+| Item | Nilai/Value (Rp) |
+|---|---|
+| 12. Pendapatan dari jasa industri (makloon) / Manufacturing services | 000 |
+| 13. Pendapatan lainnya (Keuntungan penjualan barang yang tidak diproses, jasa-jasa non industri lainnya, penjualan limbah/sampah produksi) / Profit from sale of unprocessed goods, from non manufacturing services, from sale of scrap waste. | 000 |
+| Jumlah/Total | 000 |
+
+14. Nilai stok pada awal dan akhir tahun 2002 / Stock or Inventory at the beginning and at the end of 2002:
+
+| Item | Awal/Beginning (Rp) | Akhir/End (Rp) | Akhir - Awal / End-Beginning (Rp) |
+|---|---|---|---|
+| a. Nilai stok bahan baku, bahan penolong, bahan bakar, bahan pembungkus, dan lain-lain / Stock of raw materials, fuel, packaging, and other materials | 000 | 000 | 000 |
+| b. Nilai stok barang produksi setengah jadi / Stock of semi-finished products (work in process) | 000 | 000 | 000 |
+| c. Nilai stok barang jadi yang dihasilkan / Stock of finished products | 000 | 000 | 000 |
+| Jumlah/Total | 000 | 000 | 000 |
+
+---
+
+BAGIAN/PART V. GENERATOR YANG DIGUNAKAN, PRODUKSI, PEMBELIAN, PENJUALAN TENAGA LISTRIK SELAMA TAHUN 2002
+ELECTRICITY PRODUCED AND PURCHASED WITH GENERATORS USED FOR PRODUCTION DURING 2002
+
+| Item | Banyaknya / Quantity | Kekuatan / Capacity |
+|---|---|---|
+| 15. Generator | | KVA/KW |
+
+16. Tenaga listrik yang dibeli / Electricity purchased:
+| | Banyaknya / Quantity | Nilai/Value (Rp) |
+|---|---|---|
+| a. Dari PLN / From PLN | KwH | 000 |
+| b. Dari Non PLN / From non-PLN | KwH | 000 |
+
+17. Banyaknya tenaga listrik yang dibangkitkan sendiri oleh perusahaan / Electricity generated by the establishment: [blank] KwH
+
+Tenaga listrik yang dijual / Electricity sold to others:
+   Banyaknya / Quantity: [blank] KwH — Nilai/Value (Rp): 000
+
+[Electricity calculation notes — bilingual, same as previous years]
+
+---
+
+BAGIAN/PART VI. REALISASI INVESTASI / INVESTMENT REALIZATION
+
+Jumlah realisasi investasi selama tahun 2002 / Total realization of investment during 2002 (Rp): 000
+
+20. Komposisi realisasi investasi selama tahun 2002 / Composition of investment realization during 2002:
+
+| Sumber Dana / Source of Capital | Persen/Percentages |
+|---|---|
+| Swasta Nasional (modal sendiri) / Private | % |
+| Laba yang ditanam kembali / Retained earnings | % |
+| Saham/surat berharga / Stock/bonds | % |
+| Pinjaman Nasional (Dalam Negeri) / Domestic loans | % |
+| Pinjaman Asing / Foreign loan | % |
+| Modal Asing / Foreign capital | % |
+| Pemerintah / Government | % |
+| Pasar Modal / Capital market | % |
+
+---
+
+BAGIAN/PART VII. MODAL TETAP / FIXED CAPITAL
+
+21. Nilai taksiran seluruh barang modal tetap dan penambahan/pengurangan/perbaikan besar barang modal tetap selama tahun 2002 / Estimated value of fixed capital and addition/reduction/major repairs during 2002:
+
+| Item | Pembelian/penambahan dan pembuatan/perbaikan besar / Purchase/addition and construction/major repairs (Rp) | Penjualan/pengurangan barang modal / Sale/reduction of fixed capital (Rp) | Nilai Taksiran seluruh barang modal tetap menurut harga berlaku per 31 Des 2002 / Estimated Value of all capital goods based on current value per 31 December 2002 (Rp) |
+|---|---|---|---|
+| 1. Tanah / Land | 000 | 000 | 000 |
+| 2. Gedung / Building | 000 | 000 | 000 |
+| 3. Mesin dan perlengkapan / Machinery and Equipment | 000 | 000 | 000 |
+| 4. Kendaraan / Vehicles | 000 | 000 | 000 |
+| 5. Modal tetap Lainnya / Other fixed capital | 000 | 000 | 000 |
+| Jumlah/Total | 000 | 000 | 000 |
+
+[Fixed capital definitions — bilingual, same as previous years. No depreciation column in 2002 (removed compared to 2000).]
+
+---
+
+BAGIAN/PART VIII PERNYATAAN / CERTIFICATION
+
+22. Data yang tercantum dalam daftar isian ini diisi dengan sebenarnya / Data stated in this form has been filled out truthfully and accurately by:
+   1). Nama / Name: [blank]    2). Jabatan / Occupacation: [blank]
+   3). Telpon / Telephone: [blank]    4). Facsimile: [blank]    5). E-mail: [blank]
+   6). Tanda Tangan & Cap Perusahaan / Signature and company seal: [blank]    5). Tanggal / Date: / /2003
+
+23. Bagian ini hanya diisi oleh petugas BPS / For BPS enumerator's use only:
+   1). Nama & Nomor Petugas: [blank]
+   2). Jabatan: Mantis/BPS Kab/Kota/BPS Propinsi/Staf BPS Pusat/Lainnya
+   3). Tanggal Penyerahan Dokumen: / /2003    4). Tanggal Penerimaan Dokumen: / /2003
+   5). Tanda Tangan: [blank]    6). Nama Pengawas/Pemeriksa: [blank]
+   7). Tanggal Pengawasan/Pemeriksaan: / /2003    8). Tanda Tangan: [blank]
+
+---
+
+BAGIAN/PART VIII RINGKASAN (Diisi oleh pengawas lapangan) / SUMMARY (To be filled by supervisor)
+
+24. PENGELUARAN / EXPENSES:
+
+| Item | Nilai (Rp) |
+|---|---|
+| 1. Pengeluaran untuk pekerja (6.a+6.b) | 00 |
+| 2. Pemakaian bahan bakar (7) | 00 |
+| 3. Pemakaian bahan baku dan penolong (9) | 00 |
+| 4. Pengeluaran lainnya (8) | 00 |
+| 5. Tenaga listrik yang dibeli (16.a + 16.b) | 00 |
+| Jumlah | 00 |
+
+25. PENDAPATAN / INCOME:
+
+| Item | Nilai (Rp) |
+|---|---|
+| 1. Barang-barang yang dihasilkan (10.b) | 00 |
+| 2. Pendapatan dari jasa industri (12) | 00 |
+| 3. Pendapatan lainnya (13) | 00 |
+| 4. Selisih nilai stok barang produksi setengah jadi (14.b) | 00 |
+| 5. Listrik yang dijual (18) | 00 |
+| Jumlah | 00 |
+
+26. NILAI TAMBAH / VALUE ADDED:
+
+a. Pengeluaran lain yang merupakan komponen nilai tambah:
+| Item | Nilai (Rp) |
+|---|---|
+| 1. Rincian 8.a.2 | 00 |
+| 2. Rincian 8.b | 00 |
+| 3. Rincian 8.c | 00 |
+| 4. Rincian 8.d | 00 |
+| Jumlah | 00 |
+
+b. Nilai Tambah (25-24+24.1+26.a): 00
+
+[File reference note: J:\Rudy\Kues_Tahunan\2002\PAB2002a.wpd]
+
+========================================
+
+EXTRACTION NOTES
+- Total pages: 13
+- Tables found: 10 (workers, wages/incentives, fuel, other expenses, raw materials, production, inventory, electricity/investment, fixed capital, summary)
+- Figures noted: 0
+- Quality issues: Clean digital PDF (not scanned). All data fields are blank templates. Compared to 2001: contact person changed to DR. Suryamin; question numbering reorganized (raw materials moved to Q9 after other expenses Q8); investment section Q20 retained but total investment question number unclear (appears before Q20).

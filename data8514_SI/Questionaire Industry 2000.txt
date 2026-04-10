@@ -1,0 +1,492 @@
+EXTRACTED: Questionaire Industry 2000
+Source: Questionaire Industry 2000.pdf
+Pages: 18
+Document Type: Indonesian Annual Manufacturing Survey Questionnaire (Bilingual: Indonesian/English)
+Extracted: 2026-03-11
+Method: Read tool
+
+========================================
+
+SURVEI TAHUNAN PERUSAHAAN INDUSTRI PENGOLAHAN 2000
+2000 ANNUAL MANUFACTURING SURVEY
+
+REPUBLIK INDONESIA — BADAN PUSAT STATISTIK
+Form: Daftar Isian / Questionaire II-A
+Classification: RAHASIA / CONFIDENTIAL
+KIP: [blank field]
+
+---
+
+COVER PAGE — IDENTIFICATION
+
+1. Propinsi / Province: ....................................
+2. Kab/Kota* / Regency/Municipality: ....................................
+3. Kota Administratip / Administrative City: ....................................
+4. Kecamatan / Sub-regency: ....................................
+5. Desa/Kelurahan / Village: ....................................
+6. Tahun Survei / Survey Year: 00
+
+7. Nama Lengkap Perusahaan / Name of Company: ....................................
+8. Alamat Perusahaan/Unit Produksi / Address of Company: ....................................
+   Kode Pos / Postal Code: [blank]
+   E-mail: ........ Tel: ( ) ........ Fax: ( ) ........
+9. Alamat Surat-menyurat / Mailing Address: ....................................
+   Kode Pos / Postal Code: [blank]
+   Tel: ( ) ........ Fax: ( ) ........ E-mail: ........
+
+*) Coret yang tidak perlu / Cross out if not valid
+
+■ Tujuan Survei / Objective of the Survey:
+Untuk memperoleh data statistik yang dapat dipercaya dan tepat waktu untuk perencanaan pembangunan.
+To obtain reliable and accurate data for development planning.
+
+■ Dasar Hukum / Legal Status:
+Pelaksanaan survei ini berdasarkan Undang-Undang nomor 16 Tahun 1997 tentang Statistik.
+Implementation of the survey is based on Law no. 16 on Statistics, 1997.
+
+■ Kerahasiaan / Confidentiality:
+Kerahasiaan data yang diberikan dijamin oleh Undang-Undang nomor 16 Tahun 1997 tentang Statistik.
+Confidentiality of the data is guaranteed under Law no. 16 on Statistics, 1997.
+
+Perhatian / Attention: Survei ini tidak memungut biaya apapun / The survey is free of charge.
+
+■ Perlu Keterangan / For Further Information:
+Hubungi / Please contact: Yuditha Arum Sari
+   Biro Statistik Industri BPS
+   Jl. Dr. Sutomo 8 Jakarta, 10710.
+   Telpon: (021) 3810291, 3841195 extension. 5211, 5212, dan 5213, Fax: (021) 386-3816.
+   E-mail: rifa@mailhost.bps.go.id
+   atau BPS Propinsi/Kabupaten/Kota setempat (lihat halaman terakhir).
+   or the nearest Regional Office of Statistics in your province/regency (see the last page)
+
+---
+
+PAGE 2 — INSTRUCTIONS / PETUNJUK PENGISIAN
+
+Sebelum mengisi kuesioner ini, mohon dibaca informasi berikut:
+Prior to filling in the questionnaire, please read the following information carefully:
+
+Perusahaan/Usaha Industri Pengolahan adalah suatu unit (kesatuan) produksi yang terletak pada suatu tempat tertentu yang melakukan kegiatan ekonomi, bertujuan untuk mengubah suatu barang secara mekanis, kimia, atau dengan tangan, sehingga menjadi benda/barang/produk baru yang nilainya lebih tinggi, dan sifatnya lebih dekat kepada pemakai terakhir. Termasuk ke dalam kegiatan ini adalah perusahaan yang melakukan kegiatan jasa industri dan pekerjaan perakitan (assembling).
+
+A manufacturing establishment is defined as a production/processing unit located in a building or in a certain location, engaged in economic activity in processing materials or transforming them mechanically, chemically, or by hand, from raw materials into finished or semi finished product having higher value and being closer to the final user. An establishment that provides manufacturing services or assembles parts is included as a manufacturing establishment.
+
+Jasa industri adalah kegiatan industri yang melayani keperluan pihak lain. Pada kegiatan ini bahan baku disediakan oleh pihak lain sedangkan pihak pengolah hanya melakukan pengolahannya dengan mendapat imbalan sejumlah uang atau barang sebagai balas jasa (upah makloon), misalnya perusahaan konveksi yang melakukan kegiatan pembuatan pakaian jadi yang bahan bakunya disediakan oleh pemberi pekerjaan dan hasil produksinya merupakan milik pembeli pekerjaan.
+
+Manufacturing services are industrial activities that serve others. In these activities, the materials are supplied by others while the processor is processing and receiving payments for these activities as compensation. As an example, a garment producing establishment using raw materials provided by others, and the product of which is owned by others, is engaged in manufacturing service.
+
+Beberapa kegiatan industri yang kegiatannya berkaitan erat dengan sektor lainnya, pengisian daftar isian ini harus diusahakan hanya mencakup kegiatan industri saja. Pemisahan kegiatan ini berlaku untuk semua variabel yaitu tenaga kerja, upah/gaji, bahan baku, produksi, dan lain-lain.
+
+Information from industries whose activities are closely linked with other sectors, should be filled in this questionnaire but should be limited to manufacturing activity only. Separation of those activities should apply for every variable, such as number of workers, wages/salaries, raw materials, production, etc.
+
+Contoh kegiatan industri yang berkaitan dengan sektor lainnya:
+Usaha penyadapan karet yang menghasilkan getah karet sebagai bahan baku pembuatan karet remah termasuk dalam sektor Pertanian, sedangkan usaha pengasapan atau pengolahan karet termasuk ke dalam sektor Industri Pengolahan.
+
+Example of manufacturing activities which are linked to other sectors:
+The tapping of rubber trees to produce latex as a raw material to make crumb rubber should be included in the agricultural sector, but production of smoked rubber or rubber processing should be included in the manufacturing sector.
+
+Data yang dilaporkan mencakup kegiatan dari tanggal 1 Januari 2000 s/d 31 Desember 2000.
+Data should cover activities from 1 January 2000 to 31 December 2000.
+
+Data yang berupa nilai, hendaknya dituliskan dalam ribuan rupiah dengan pembulatan, karena ribuan rupiah (000)-nya sudah tercetak di sebelahnya.
+Value data should be expressed in thousand rupiahs.
+Contoh / Example: Upah/gaji pekerja produksi yang berupa uang selama tahun 2000 adalah Rp 100.000.850,00, maka pengisian Bagian II Rincian 11.1.a adalah sebagai berikut:
+   a. Upah/gaji Wage/salary: Berupa Uang (Rp) In Cash — 100.001 | 000
+
+Pengisian yang sifatnya uraian/penjelasan agar menggunakan huruf balok.
+Please use block letters for descriptive answers.
+
+Untuk jawaban yang disediakan kodenya, lingkari kode yang sesuai kemudian tuliskan di dalam kotak yang tersedia.
+For pre-coded answer questions, please choose one appropriate code and then write it down in the box provided.
+
+---
+
+BAGIAN/PART I: KETERANGAN UMUM / GENERAL INFORMATION
+
+1. Periode data yang dilaporkan / Time reference of data reported.
+   Berikan tanda cek (√) pada bulan dari data yang dilaporkan pada kuesioner ini mencakup kegiatan dari tanggal
+   Mark check (√) at the month that the data reported in this questionnaire covers activities from
+
+| Jan | Feb | Mar | Apr | Mei | Jun | Jul | Agt | Sept | Okt | Nop | Des |
+|-----|-----|-----|-----|-----|-----|-----|-----|------|-----|-----|-----|
+|     |     |     |     |     |     |     |     |      |     |     |     |
+
+2. Tuliskan keterangan mengenai Kantor Pusat (jika lokasi Kantor Pusat berada di Kabupaten lain).
+   Please give information of Head Office (if location of Head Office is in a different regency).
+   a. Nama Kantor Pusat / Name of the Head Office: ....................................
+      Alamat Kantor Pusat / Address of the Head Office: ....................................
+      Kode Pos / Postal Code: [blank]   Telp: ( ) ......................
+      E-mail: ......................   Fax: ( ) ......................
+   b. Jumlah tenaga kerja di Kantor Pusat / Number of workers in the Head Office: [blank]
+   c. Pengeluaran di Kantor Pusat / Expenditure of the Head Office: [blank] 000 rupiah.
+
+3. a. Kegiatan perusahaan industri ini / Activity of this manufacturing establishment: [blank field]
+      Bila lebih dari 1 jenis kegiatan industri, tuliskan kegiatan yang mempunyai nilai produksi terbesar / If the company is engaged in more than one activity, please choose the one having the largest production value.
+   b. Apakah data yang dilaporkan di kuesioner ini juga mencakup data Kantor Pusat?
+      Do the data reported in this questionnaire also cover data for the Head Office?
+      Ya/Yes - 1        Tidak/No - 2   [box]
+
+4. Produksi utama (tuliskan terperinci, contoh: sepatu olah raga dari kulit) / Main product (please state in detail, for example: leather sport shoes): [blank field]
+   Diisi oleh BPS / To be filled by BPS: [blank boxes]
+
+5. Bentuk badan hukum perusahaan / Legal status:
+
+| Code | Indonesian | English |
+|------|-----------|---------|
+| -1 | PN | State Owned Company |
+| -2 | PD | Local Government owned company |
+| -3 | PT (Persero) | State Owned Limited Liability Corporation |
+| -4 | Perum | State Owned Company |
+| -5 | PT | Limited Liability Corporation |
+| -6 | NV | Limited Liability Corporation |
+| -7 | CV | Limited Partnership |
+| -8 | Firma | Partnership |
+| -9 | Koperasi | Cooperative |
+| -10 | Yayasan | Foundation |
+| -11 | Lainnya berbadan hukum | Other legal entity |
+| -12 | Tidak berbadan hukum | Firm having no legal status |
+
+[box for answer]
+
+6. Status penanaman modal / Status of investment:
+   PMDN/Domestic -1   PMA/Foreign -2   Non Fasilitas/Others -3   [box]
+
+7. Persentase permodalan / Percentage of capital owned by:
+   a. Pemerintah Pusat / Central Government: [blank] %
+   b. Pemerintah Daerah / Local Government: [blank] %
+   c. Swasta Nasional / National Private: [blank] %
+   d. Asing / Foreign: [blank] %
+   Jumlah / Total (a+b+c+d): 100.00 %
+
+8. Tahun mulai berproduksi komersial / First year of commercial production: [blank]
+
+9. Banyaknya gelombang kerja / Number of working shifts: [blank]
+
+[Definitions — Paid/Unpaid/Production/Other workers:]
+
+Pekerja dibayar adalah semua pekerja yang biasanya bekerja di perusahaan/usaha ini dengan menerima upah/gaji secara langsung dari perusahaan/usaha ini baik berupa uang maupun barang. Sedangkan pekerja yang tidak dibayar adalah pekerja pemilik dan pekerja keluarga yang ikut aktif di dalam perusahaan ini tetapi tidak mendapat upah/gaji. Bagi pekerja keluarga yang bekerja kurang dari 1/3 (sepertiga) jam kerja yang biasa di perusahaan ini tidak dihitung sebagai pekerja.
+
+Paid workers are defined as workers who regularly work in the company and normally receive salary/wage directly from the company in cash or in kind. Unpaid workers are defined as workers who normally do not receive regular pay, such as owner of company or family workers, but are active in the company. Family workers who are active for less than 1/3 (one third) of the regular working hours are not considered workers.
+
+Pekerja produksi adalah pekerja yang langsung bekerja di dalam proses produksi atau yang berhubungan dengan itu, dari mulai bahan-bahan masuk ke pabrik sampai dengan hasil produksinya keluar dari pabrik misalnya: pengawas yang langsung mengawasi proses produksi, pengemudi forklift di pabrik, pekerja di pengolahan barang di pabrik dan lain-lain.
+
+Production workers are defined as workers who work directly in the production process or activities connected with the production process, from the time materials enter the factory until the final product are sent out of the factory, for example, foreman supervising the production process, driver of a forklift in the factory, workers working in the processing of goods etc.
+
+Pekerja lainnya adalah pekerja selain pekerja produksi, misalnya: pimpinan perusahaan, staf direksi, pegawai administrasi, dan lain sebagainya.
+
+Others workers are defined as workers who are not directly involved in the production process, for example: directors, staff of the board of directors, administrative workers, etc.
+
+10. Banyaknya pekerja/karyawan rata-rata per hari kerja selama tahun 2000 / Average number of workers per working day during 2000.
+
+| | Pekerja Produksi / Production Workers | | Pekerja Lainnya / Other Workers | |
+|---|---|---|---|---|
+| | Laki-laki / Male | Perempuan / Female | Laki-laki / Male | Perempuan / Female |
+| 1). Dibayar / Paid workers | | | | |
+| 2). Tidak dibayar / Unpaid workers | | | | |
+| Jumlah / Total | | | | |
+
+---
+
+BAGIAN/PART II: PENGELUARAN / EXPENSES
+
+[Instructions on goods-in-kind valuation and in-kind payments:]
+
+Pemberian barang dari perusahaan kepada pekerja/karyawan secara cuma-cuma agar penilaiannya diperkirakan dengan harga pasar yang berlaku untuk barang-barang tersebut pada saat itu. Tetapi jika perusahaan memberikan barang kepada pekerjanya dengan pembayaran (tebusan) harga murah, maka nilai yang dicantumkan adalah selisih antara harga pasar dan nilai tebusan tadi.
+Penyediaan perumahan dan kendaraan yang diberikan/diserahkan pemakaiannya kepada pekerja termasuk dalam pembayaran berupa barang. Penilaiannya dengan menaksir nilai sewa atau penyusutan barang tersebut.
+
+Goods rendered by establishments to workers as in-kind payments must be estimated by current market price. If the establishment provided goods to its workers at a price below the market value, the value of the goods recorded in this form should be their value at market price minus their value paid by workers. Housing and vehicles provided by establishments to workers are also classified as in-kind payments. Estimate the rent or depreciation value of those goods.
+
+Pengeluaran pada rincian 13 adalah pengeluaran perusahaan/usaha yang dibayarkan selama tahun 2000 kepada suatu yayasan/badan yang menangani masalah tersebut untuk kepentingan pekerja/karyawan.
+
+Expenses in questions 13 refer to establishment expenses paid during 2000 to an institution dealing with pension, social security funds, insurance, and similar benefits for workers.
+
+11. Upah/gaji pekerja/karyawan selama tahun 2000 / Wage/salary of workers in 2000:
+
+| | Berupa Uang / In Cash (Rp) | Berupa Barang / In Kind (Rp) | Jumlah / Total (Rp) |
+|---|---|---|---|
+| a. Pekerja Produksi / Production Workers | 000 | 000 | 000 |
+| b. Pekerja Lainnya / Others Workers | 000 | 000 | 000 |
+
+12. Lembur, hadiah, bonus dan sejenisnya untuk pekerja/karyawan selama tahun 2000 / Overtime, gifts, bonuses, and other similar payments made to workers in 2000:
+
+| | Berupa Uang / In Cash (Rp) | Berupa Barang / In Kind (Rp) | Jumlah / Total (Rp) |
+|---|---|---|---|
+| a. Pekerja Produksi / Production Workers | 000 | 000 | 000 |
+| b. Pekerja Lainnya / Others Workers | 000 | 000 | 000 |
+
+13. Iuran dana pensiun, tunjangan-tunjangan sosial, tunjangan kecelakaan, asuransi dan tunjangan yang sejenisnya selama tahun 2000 / Company's contribution to Pension funds, social security, accident allowance, insurance and other benefit (not included above) during 2000:
+
+| | Berupa Uang / In Cash (Rp) | Berupa Barang / In Kind (Rp) | Jumlah / Total (Rp) |
+|---|---|---|---|
+| a. Pekerja Produksi / Production workers | 000 | 000 | 000 |
+| b. Pekerja Lainnya / Others Workers | 000 | 000 | 000 |
+
+---
+
+14. Bahan bakar dan pelumas / Fuel and lubricants
+    Banyaknya dan nilai seluruh bahan bakar dan pelumas yang betul-betul dipakai selama tahun 2000 / Quantity and value of fuel and lubricants used during 2000:
+
+| Item | Satuan Standar / Standard Unit | Seluruhnya Total — Banyaknya / Quantity | Seluruhnya Total — Nilai/Value (Rp) | Untuk pembangkit tenaga listrik / For electrical generator only — Banyaknya / Quantity | Untuk pembangkit tenaga listrik — Nilai/Value (Rp) |
+|------|---|---|---|---|---|
+| a. Bensin/Premium/Gasoline | Ltr | | 000 | | 000 |
+| b. Solar/HSD/ADO/Diesel fuel/HSD/ADO | Ltr | | 000 | | 000 |
+| c. Minyak Diesel/IDO/Diesel oil/IDO | Ltr | | 000 | | 000 |
+| d. Minyak Bakar/FO/Bunker C/MFO/Fuel oil/FO/Bunker C/MFO | Ltr | | 000 | | 000 |
+| e. Minyak Tanah/Kerosene | Ltr | | 000 | | |
+| f. Batubara/Coal | Kg | | 000 | | 000 |
+| g. Kokas/Coke | Kg | | 000 | | 000 |
+| h. Gas dari PGN/Gas from state owned gas company | M3 | | 000 | | |
+| i. LPG | Kg | | 000 | | |
+| j. Bahan Bakar Lainnya/Other fuels | | | 000 | | 000 |
+| k. Pelumas/Lubricant | Ltr | | 000 | | 000 |
+| Jumlah/Total | | | 000 | | 000 |
+
+---
+
+15. Bahan baku dan bahan penolong / Raw materials
+    Sebutkan jenis bahan baku dan bahan penolong atau kode HS-nya yang dipakai selama tahun 2000 dirinci menurut "banyaknya" dan "nilai" serta asal bahan tersebut / State the type of raw materials used or HS code during 2000, in both quantity and value, and state the source.
+
+    Untuk industri yang menggunakan bahan baku serta bahan penolong yang banyak sekali jenis/macamnya, maka bahan yang cukup kecil nilainya dapat digabungkan pengisiannya dengan sebutan "bahan-bahan lain" dan cantumkan nilainya saja. Tetapi dengan ketentuan bahwa penggabungan nilai bahan-bahan lain tersebut kurang dari 10% dari seluruh jumlah nilai pemakaian bahan. Dalam penulisan jenis bahan baku/penolong harap menggunakan huruf balok.
+
+    For an establishment which uses many types of raw materials, the materials with low values may be grouped as "others" and only their total value may be written down, provided that their total value is not more than 10 percent of the total value of all materials used. Please use block letters for the name of raw materials used.
+
+    BAHAN BAKU DAN BAHAN PENOLONG YANG DIPAKAI SELAMA TAHUN 2000 / MATERIALS USED DURING 2000
+
+| No. | NAMA BAHAN / Name of materials | SATUAN STANDAR / Standard Unit | BERASAL DARI PRODUKSI DALAM NEGERI Domestic — BANYAKNYA / Quantity | Domestic — NILAI/Value (Rp) | BERASAL DARI IMPOR Imported — BANYAKNYA / Quantity | Imported — NILAI/Value (Rp) | JUMLAH Total — BANYAKNYA / Quantity | Total — NILAI/Value (Rp) |
+|-----|---|---|---|---|---|---|---|---|
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) |
+| 1. | [blank] | | | 000 | | 000 | | 000 |
+| | ☆ Kode HS/HS Code | | | | | | | |
+| 2. | [blank] | | | 000 | | 000 | | 000 |
+| | ☆ Kode HS/HS Code | | | | | | | |
+| 3. | [blank] | | | 000 | | 000 | | 000 |
+| | ☆ Kode HS/HS Code | | | | | | | |
+| | Sub Jumlah/Sub Total | | | 000 | | 000 | | 000 |
+| (bersambung/continued to next page) | | | | | | | | |
+
+[Continued rows 4–15 on pages 8–9 with same structure]
+
+Sub Jumlah/Sub Total (page 8): entries 4–9
+Sub Jumlah/Sub Total (page 9): entries 10–15, then Jumlah/Total
+
+---
+
+16. Pengeluaran lain / Other Expenses
+    Isikan semua pengeluaran di luar pengeluaran untuk bahan baku dan bahan penolong selama tahun 2000 / Fill in other expenses other than expenses for raw materials during 2000:
+
+| Item | Nilai/Value (Rp) |
+|------|---|
+| a). Pengeluaran untuk sewa atau kontrak / Rental or contract Payments. Pembayaran sewa atau kontrak untuk jangka waktu lebih dari 1 tahun agar diperkirakan hanya pada tahun 2000 saja / For rent or contract of more than one year, estimate only that portion which corresponds to the year 2000. | |
+| 1). Gedung, mesin, serta alat-alat / Building, machinery and tools. | 000 |
+| 2). Tanah / Land. | 000 |
+| b). Pajak tak langsung / Indirect taxes (e.g. sales tax, establishment license, building and land tax (PBB), SWP3D, import duty, custom fee, etc. except income and personal taxes.) | 000 |
+| c). Kemasan, suku cadang dan alat tulis / packaging, spare parts and stationeries. | 000 |
+| d). Jasa industri / Industrial services | 000 |
+| e). Ongkos pemeliharaan kecil barang modal / Maintenance and minor repair expenses for capital goods. | 000 |
+| f). Bunga atas pinjaman / Interest paid on loan | 000 |
+| g). Hadiah, sumbangan, derma dan sejenisnya / Gifts, charitable contributions, donations, etc | 000 |
+| h). Pengembangan Sumber Daya Manusia / Human Resource Development (HRD) | 000 |
+| i). Riset dan pengembangan produk dan proses / Research and development of product and process | 000 |
+| j). Biaya Pengolahan Limbah / Waste treatment | 000 |
+| k). Lainnya / Others (Royalties, managemen fee, biaya promosi, perjalanan dinas karyawan, biaya representasi, rekening air, telpon dan sejenisnya / Royalties, advertising expense, travel expenses, representation allowance, water expenses, telephone, etc.) | 000 |
+| Jumlah / Total | 000 |
+
+---
+
+BAGIAN/PART III. PRODUKSI (BARANG YANG DIHASILKAN) / PRODUCTION (GOODS PRODUCED)
+
+17.a Apakah ada produksi yang diekspor? / Does this establishment export any of its products?
+     1. Ya/Yes        2. Tidak/No   [box]
+
+17.b Sebutkan semua produksi yang dihasilkan atau kode HS-nya selama tahun 2000 dirinci menurut jenis barang, banyaknya, dan nilai / State all goods produced or HS code during 2000 (by product name, quantity, value and percentage exported).
+
+| No. | Nama barang yang dihasilkan / Name of goods produced | Kode HS / HS Code | Satuan Standar / Standard unit | Banyaknya / Quantity | Nilai/Value (Rp) | Persentase yang di ekspor / percentage of goods exported |
+|-----|---|---|---|---|---|---|
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) |
+| 1. | | | | | 000 | |
+| 2. | | | | | 000 | |
+| 3. | | | | | 000 | |
+| 4. | | | | | 000 | |
+| 5. | | | | | 000 | |
+| 6. | | | | | 000 | |
+| 7. | | | | | 000 | |
+| 8. | | | | | 000 | |
+| 9. | | | | | 000 | |
+| | Sub Jumlah/Sub Total | | | | | |
+| (Bersambung/continued to next page) | | | | | | |
+
+[Continued rows 10–20 on page 12, then Jumlah/Total]
+
+18. Persentase realisasi produksi selama tahun 2000 terhadap kapasitas terpasang / Percentage of actual production to production capacity during 2000: [blank] %
+
+---
+
+BAGIAN/PART IV. PENDAPATAN/PENERIMAAN LAIN / OTHER INCOME RECEIVED
+
+Isikan semua pendapatan/penerimaan lain yang diterima selama tahun 2000 / Fill in all other income received during 2000:
+
+| Item | Nilai/Value (Rp) |
+|------|---|
+| 19. Pendapatan dari jasa industri (makloon) / Manufacturing services | 000 |
+| 20. Keuntungan penjualan barang yang tidak diproses / Profit from sale of unprocessed goods | 000 |
+| 21. Penerimaan jasa-jasa non industri lainnya / Gross income from non manufacturing services. | 000 |
+| 22. Penerimaan dari penjualan limbah/sampah produksi, misalnya sisa potongan kayu, kain, karung bekas dan sebagainya / Receipt from sale of scrap waste, for instance, leftover wood, scrap metal, paper, cloth, used sack and others | 000 |
+| Jumlah/Total (19+20+21+22) | 000 |
+
+23. Nilai stok pada awal dan akhir tahun 2000 / Stock or Inventory at the beginning and at the end of 2000:
+
+| Item | Awal/Beginning (Rp) | Akhir/End (Rp) | Akhir - Awal / End-Beginning (Rp) |
+|------|---|---|---|
+| a. Nilai stok bahan baku, bahan penolong, bahan bakar, bahan pembungkus, dan lain-lain / Stock of raw materials, fuel, packaging, and other materials | 000 | 000 | 000 |
+| b. Nilai stok barang produksi setengah jadi (dinilai sesuai dengan nilai bahan baku ditambah nilai pekerjaan yang dilakukan) / Stock of semi-finished products (work in process) | 000 | 000 | 000 |
+| c. Nilai stok barang jadi yang dihasilkan / Stock of finished products | 000 | 000 | 000 |
+| Jumlah/Total | 000 | 000 | 000 |
+
+---
+
+BAGIAN/PART V. GENERATOR YANG DIGUNAKAN, PRODUKSI, PEMBELIAN, PENJUALAN TENAGA LISTRIK SELAMA TAHUN 2000
+ELECTRICITY PRODUCED AND PURCHASED WITH GENERATORS USED FOR PRODUCTION DURING 2000
+
+24. Tenaga listrik yang dibeli / Electricity purchased:
+    | | Banyaknya / Quantity | Nilai/Value (Rp) |
+    |---|---|---|
+    | a. Dari PLN / From PLN | KwH | 000 |
+    | b. Dari Non PLN / From non-PLN | KwH | 000 |
+
+25. Generator: Banyaknya / Quantity [blank] — Kekuatan/Capacity: [blank] KVA/KW
+
+26.a Banyaknya tenaga listrik yang dibangkitkan sendiri oleh perusahaan / Electricity generated by the establishment: [blank] KwH
+
+Pendekatan penggunaan dihitung dengan: tenaga listrik yang dibangkitkan = kapasitas generator x jumlah hari pemakaian generator selama satu tahun x rata-rata jam kerja per hari x 80%
+Calculation for electricity generated is capacity of generator x number of days of generator used in a year x average hours worked per day x 80%
+
+Pendekatan bahan bakar: 1 liter minyak solar membangkitkan listrik sebanyak 11,33 KwH. 1 liter minyak diesel bisa menghasilkan 10,39 KwH tenaga listrik. 1 liter bensin menghasilkan 8,98 KwH. 1 Kg batubara menghasilkan 6,57 KwH
+Calculation using conversion of fuel to electricity power: 1 liter of diesel fuel can generate 11.33 KwH of electricity, diesel oil generate 10.39 KwH, 1 liter of gasoline generate 8.98 KwH and 1 Kg of coal generate 6.57 KwH of electrical power.
+
+26.b Jika perusahaan membangkitkan listrik sendiri, berikan alasannya (jawaban boleh lebih dari satu, lingkari yang sesuai) / If the establishment generates its own electricity, state the reason (answer can be more than one; please circle correct answer):
+   a. Belum tersedia jaringan PLN / Electricity from PLN not available — 1
+   b. Harga listrik PLN terlalu mahal / Price of electricity too expensive — 2
+   c. Keandalan listrik PLN kurang memadai/terjamin (sering padam/voltage turun) / Supply of electricity from PLN not reliable — 3
+   d. Sebagai cadangan / Generator is used as backup — 4
+   e. Lainnya / Others — 5
+
+27. Tenaga listrik yang dijual / Electricity sold to others:
+    Banyaknya / Quantity: [blank] KwH — Nilai/Value (Rp): 000
+
+---
+
+BAGIAN/PART VI. REALISASI INVESTASI / INVESTMENT REALIZATION
+
+28. Investasi yang direalisasikan selama tahun 2000 menurut harga pasar yang berlaku / Actual investment during 2000 in current prices:
+
+| Sumber Dana / Source of Capital | Nilai/Value (Rp) |
+|---|---|
+| a. Swasta Nasional (modal sendiri) / Private | 000 |
+| b. Laba yang ditanam kembali / Retained earnings | 000 |
+| c. Saham/surat berharga / Stock/bonds | 000 |
+| d. Pinjaman Nasional (Dalam Negeri) / Domestic loans | 000 |
+| e. Pinjaman Asing / Foreign loan | 000 |
+| f. Modal Asing / Foreign capital | 000 |
+| g. Pemerintah / Government | 000 |
+| h. Pasar Modal / Capital market | 000 |
+| Jumlah/Total | 000 |
+
+---
+
+BAGIAN/PART VII. MODAL TETAP / FIXED CAPITAL
+
+[Definitions of Major Repairs and Fixed Capital Valuation — bilingual]
+
+Perbaikan besar adalah perombakan/pembaharuan sehingga menambah kapasitas/meningkatkan daya kerja, mengubah bentuk, atau menambah umur barang modal tersebut.
+Major repairs are alterations/renovation of fixed capital to increase capacity/performance, change shape, or increase the working life of the good.
+
+Nilai pembuatan dan perbaikan besar barang modal dibedakan atas yang dikerjakan pihak lain dan perusahaan sendiri. Penilaian terhadap pembuatan dan perbaikan besar yang dikerjakan oleh perusahaan itu sendiri adalah berdasarkan harga pasar.
+The value of construction (and major repairs) of a fixed capital good is divided into own repairs and repair by others. The value of own construction (and repairs) is in market value.
+
+Untuk barang modal yang pembuatannya memerlukan waktu lebih dari satu tahun, seperti pembuatan gedung, maka nilai yang dicatat adalah nilai yang benar-benar telah diinvestasikan selama tahun 2000 saja.
+For a fixed capital good which takes more than one year to construct, such as a building, the recorded value is the actual value of investment during 2000.
+
+Nilai Penyusutan (depresiasi) barang modal tahun 2000 adalah nilai penyusutan masing-masing jenis barang modal khusus pada tahun 2000 saja (bukan kumulatif nilai penyusutan).
+Depreciation of fixed capital in 2000 is the value of depreciation of each good expensed during 2000 (not accumulated depreciation).
+
+29. Nilai taksiran seluruh barang modal tetap dan penambahan/pengurangan/perbaikan besar barang modal tetap selama tahun 2000 / Estimated value of fixed capital and addition/reduction/major repairs during 2000:
+
+| Item | Penambahan/pengurangan/perbaikan barang modal tetap — Pembelian/penambahan dan pembuatan/perbaikan besar / Purchase/addition and construction/major repairs (Rp) | Penambahan/pengurangan/perbaikan barang modal tetap — Penjualan/pengurangan barang modal / Sale/reduction of fixed capital (Rp) | Nilai Taksiran seluruh barang modal tetap menurut harga berlaku per 31 Des 2000 / Estimated Value of all capital goods based on current value per 31 December 2000 (Rp) | Nilai Penyusutan 2000 / Depreciation in 2000 (Rp) |
+|---|---|---|---|---|
+| 1. Tanah / Land | 000 | 000 | 000 | |
+| 2. Gedung / Building | 000 | 000 | 000 | 000 |
+| 3. Mesin dan perlengkapan / Machinery and Equipment | 000 | 000 | 000 | 000 |
+| 4. Kendaraan / Vehicles | 000 | 000 | 000 | 000 |
+| 5. Modal tetap Lainnya / Other fixed capital | 000 | 000 | 000 | 000 |
+| Jumlah/Total | 000 | 000 | 000 | 000 |
+
+---
+
+BAGIAN/PART VIII: PERNYATAAN / CERTIFICATION
+
+30. Data yang tercantum dalam daftar isian ini diisi dengan sebenarnya dan menurut keadaan yang sesungguhnya / Data stated in this form has been filled out truthfully and accurately by:
+   1). Nama / Name: [blank]
+   2). Jabatan / Occupation: [blank]
+   3). Telpon / Telephone: [blank]   Facsimile: [blank]   E-mail: [blank]
+   4). Tanda Tangan & Cap Perusahaan / Signature and company seal: [blank]
+   5). Tanggal / Date: / /2001
+
+31. Bagian ini hanya diisi oleh petugas BPS / For BPS enumerator's use only:
+   1). Nama & Nomor Petugas: [blank]
+   2). Jabatan: Mantis/BPS Kab/Kota/BPS Propinsi/Staf BPS Pusat/Lainnya
+   3). Tanggal Penyerahan Dokumen: / /2001
+   4). Tanggal Penerimaan Dokumen: / /2001
+   5). Tanda Tangan: [blank]
+   6). Nama Pengawas/Pemeriksa: [blank]
+   7). Tanggal Pengawasan/Pemeriksaan: / /2001
+   8). Tanda Tangan: [blank]
+
+32. Catatan Petugas / Enumerator's notes: [blank field]
+
+---
+
+BAGIAN/PART IX: RINGKASAN (Diisi oleh pengawas lapangan) / SUMMARY (To be filled by supervisor)
+
+33. PENGELUARAN / EXPENSES:
+
+| Item | Nilai (Rp) |
+|---|---|
+| 1. Pengeluaran untuk pekerja (11+12+13) | 000 |
+| 2. Pemakaian bahan bakar (14) | 000 |
+| 3. Pemakaian bahan baku dan penolong (15) | 000 |
+| 4. Pengeluaran lainnya (16a+16b+16c+16d+16e+16f+16g+16h+16i+16j+16k) | 000 |
+| 5. Tenaga listrik yang dibeli (24a + 24b) | 000 |
+| Jumlah | 000 |
+
+34. PENDAPATAN / INCOME:
+
+| Item | Nilai (Rp) |
+|---|---|
+| 1. Barang-barang yang dihasilkan (17b) | 000 |
+| 2. Pendapatan dari jasa industri (19) | 000 |
+| 3. Keuntungan barang yang tidak diproses (20) | 000 |
+| 4. Penerimaan jasa angkutan dan jasa-jasa non industri lainnya (21) | 000 |
+| 5. Penerimaan dari penjualan limbah/sampah produksi (22) | 000 |
+| 6. Selisih nilai stok barang produksi setengah jadi (23.b) | 000 |
+| 7. Listrik yang dijual (27) | 000 |
+| Jumlah | 000 |
+
+35. NILAI TAMBAH / VALUE ADDED:
+
+a. Pengeluaran lain yang merupakan komponen Nilai Tambah:
+| Item | Nilai (Rp) |
+|---|---|
+| 1. Rincian 16a2 | 000 |
+| 2. Rincian 16b | 000 |
+| 3. Rincian 16f | 000 |
+| 4. Rincian 16g | 000 |
+| Jumlah | 000 |
+
+b. Nilai Tambah (34-33+33.1+35.a): 000
+
+========================================
+
+EXTRACTION NOTES
+- Total pages: 18
+- Tables found: 12 (workers, wages, fuel, raw materials, production, inventory, electricity, investment, fixed capital, expenses summary, income summary, value added)
+- Figures noted: 0
+- Quality issues: Scanned document; some form fields are blank (template questionnaire). Page 18 is the summary page. Bilingual Indonesian/English throughout.

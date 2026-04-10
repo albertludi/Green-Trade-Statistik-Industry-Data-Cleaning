@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "slug": "table_001",
+    "flagged": false,
+    "page": 9
+  },
+  {
+    "id": 2,
+    "slug": "table_002",
+    "flagged": true,
+    "page": 13
+  },
+  {
+    "id": 3,
+    "slug": "table_003",
+    "flagged": true,
+    "page": 16
+  },
+  {
+    "id": 4,
+    "slug": "table_004",
+    "flagged": false,
+    "page": 19
+  },
+  {
+    "id": 5,
+    "slug": "table_005",
+    "flagged": false,
+    "page": 20
+  },
+  {
+    "id": 6,
+    "slug": "table_006",
+    "flagged": false,
+    "page": 20
+  },
+  {
+    "id": 7,
+    "slug": "table_007",
+    "flagged": true,
+    "page": 21
+  },
+  {
+    "id": 8,
+    "slug": "table_008",
+    "flagged": true,
+    "page": 22
+  }
+]

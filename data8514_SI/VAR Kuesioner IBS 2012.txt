@@ -1,0 +1,304 @@
+EXTRACTED: VAR Kuesioner IBS 2012
+Source: VAR Kuesioner IBS 2012.pdf
+Pages: 9 (including address page)
+Document Type: Indonesian Annual Manufacturing Survey Variable Questionnaire (Bilingual: Indonesian/English)
+Extracted: 2026-03-11
+Method: Read tool
+
+========================================
+
+SURVEI TAHUNAN PERUSAHAAN INDUSTRI MANUFAKTUR 2012
+2012 ANNUAL MANUFACTURING SURVEY
+
+REPUBLIK INDONESIA — BADAN PUSAT STATISTIK
+Form: Daftar Isian / Questionnaire II-A
+Classification: RAHASIA / CONFIDENTIAL
+Contact: Tri Supriyati, M.Stat — E-mail: trisp@bps.go.id
+Address: Jl. Dr Soetomo No.6-8, Jakarta 10710; Telp:(021) 3810291-5 ext:5310-5313, fax:(021) 3863816
+
+---
+
+COVER / IDENTITAS PERUSAHAAN
+
+Box fields (BPS use):
+- KIP: [blank]
+- P S I D [4-cell box, top right]
+
+Cover questionnaire fields:
+1. Propinsi / Province: DPROVI
+2. Kabupaten/Kota / Regency/Municipality: DKABUP
+3. Kota Administratif / Administrative City: [blank]
+4. Kecamatan / Sub-regency: DKECAM
+5. Desa/Kelurahan / Village: DDESA
+6. Nama Lengkap Perusahaan / Complete Name: ___________
+7. Alamat Perusahaan/Unit Produksi / Address: ___________ [Kode Pos, E-mail, Telp, Fax]
+8. Alamat Kantor Pusat / Headquarters: ___________ [Kode Pos, E-mail, Telp, Fax]
+9. Status Penanaman Modal / Investment Status (DSTATS): [ ] 1 PMDN (Domestic Investment)  [ ] 2 PMA (Foreign Investment)  [ ] 3 Non fasilitas
+10. Lokasi Perusahaan / Company Location (LOCATI): [ ] 1 Di dalam kawasan industri  [ ] 2 Di luar kawasan industri
+
+[Note: Q9 and Q10 labels now include full English translations: "Domestic Investment", "Foreign Investment"]
+
+Legal basis: UU No. 16 Tahun 1997 tentang Statistik, Pasal 11, 21, 27
+
+Data coverage: 1 January to 31 December 2012. Values in thousand rupiahs (Rp 000).
+
+---
+
+BAGIAN I / PART I: KETERANGAN UMUM / GENERAL INFORMATION
+
+Q1. Periode data yang dilaporkan / Time reference of data reported
+    Monthly checkboxes: JAN FEB MAR APR MEI JUN JUL AGS SEP OKT NOV DES | Jumlah | YEAR
+
+Q2. Produk utama / Main product: MAINPR
+    BPS code box: D I S I C 5
+
+Q3. Persentase permodalan / Percentage of capital owned by:
+    a. Pemerintah Pusat / Central Government (DPUSAT): ___%
+    b. Pemerintah Daerah / Local Government (DPEMDA): ___%
+    c. Swasta Nasional / National Private (DDMSTK): ___%
+    d. Asing / Foreign (DASING): ___%
+    Jumlah / Total (a+b+c+d): 100% (CEKSUM)
+
+[Note: R&D (RESECH) and Innovation (INNOVA) questions from 2011 are REMOVED in 2012]
+
+Q4. Banyaknya pekerja/karyawan rata-rata per hari kerja / Average number of workers per working day during 2012
+
+Tidak termasuk / Excluding: commission-only workers, self-employed consultants/contractors, non-manufacturing workers
+
+| Jenis Kelamin / Sex | Produksi / Production (Paid) | Lainnya / Others (Paid) | Tidak Dibayar / Non Paid | Jumlah / Total |
+|---|---|---|---|---|
+| a. Laki-laki / Male | LPMNOU | LNMNOU | LFMNOU | LTMNOU |
+| b. Perempuan / Female | LPWNOU | LNWNOU | LFWNOU | LTWNOU |
+| Jumlah / Total | LPRNOU | LNPNOU | LFANOU | LTLNOU |
+
+---
+
+BAGIAN II / PART II: PENGELUARAN / EXPENSES
+
+Q5. Pengeluaran untuk pekerja dibayar/karyawan selama tahun 2012 / Wage/salary of workers in 2012
+
+| Jenis Pengeluaran / Kind of Expenses | Pekerja Produksi / Production Workers (Rp) | Pekerja Lainnya / Others Workers (Rp) |
+|---|---|---|
+| a. Upah/gaji / Wage/salary | ZPSVCU | ZNSVCU |
+| b. Upah lembur / Overtime | ZPOVCU | ZNOVCU |
+| c. Hadiah/bonus, dan sejenisnya / Bonus in cash and in kind, and others | ZPIVCU | ZNIVCU |
+| d. Pensiun, tunjangan sosial, asuransi and sejenisnya | ZPPVCU | ZNPVCU |
+| e. Tunjangan kecelakaan / Accident allowance | ZPAVCU | ZNAVCU |
+| Jumlah / Total | ZPDVCU | ZNDVCU |
+
+Q6. Bahan bakar dan pelumas / Fuel and lubricants (quantity and value used during 2012)
+
+[Note: EXPANDED from 8 to 10 items in 2012 — added Briket Batubara and Gas bukan dari PGN]
+
+| Jenis bahan bakar / Kind | Satuan Standar | Banyaknya (Total) | Nilai/Value (Total, Rp) | Banyaknya (Generator) | Nilai (Generator, Rp) |
+|---|---|---|---|---|---|
+| a. Bensin/Premium/Gasoline | Ltr | EPELIU | EPEVCU | EPELIE | EPEVCE |
+| b. Solar/HSD/ADO | Ltr | ESOLIU | ESOVCU | ESOLIE | ESOVCE |
+| c. Minyak tanah/Kerosene | Ltr | EOILIU | EOIVCU | EOILIE | EOIVCE |
+| d. Batubara/Coal | Kg | ECLKGU | ECLVCU | ECLKGE | ECBVCE |
+| **e. Briket Batubara / Coal briquettes** | **Kg** | **ECBKGU** | **ECBVCU** | **ECBKGE** | **ECBVCU** |
+| f. Gas dari PGN / Gas from PGN | M³ | EGAM3U | EGAVCU | EGAM3E | EGAVCE |
+| **g. Gas bukan dari PGN / Gas from others** | **M³** | **EGOM3U** | **EGOVCU** | **EGOM3E** | **EGOVCE** |
+| h. LPG | Kg | ELPKGU | ELPVCU | ELPKGE | ELPVCE |
+| i. Bahan bakar lainnya / Other fuels | — | — | ENCVCU | — | ENCVCE |
+| j. Pelumas/Lubricants | Ltr | ELULIU | ELUVCU | ELULIE | ELUVCE |
+| **Jumlah/Total** | | | **EFUVCU** | | **EFUVCE** |
+
+Note: Other fuels consist of: Kokas, Minyak Bakar/Bunker C/FO/MFO
+
+Q7. Generator Yang digunakan / Generator used:
+    Banyaknya / Quantity: MGENOU  |  Kekuatan/Capacity: MGEKWU (KVA/KW)
+
+Q8. Tenaga listrik yang dibeli dari / Electricity purchased from:
+    a. PLN: EPLKHU (KwH) — Value: EPLVCU (Rp)
+    b. Non PLN: ENPKHU (KwH) — Value: ENPVCU (Rp)
+
+Q9. Banyaknya tenaga listrik yang dibangkitkan sendiri / Electricity generated by establishment: ESGKHU (KwH)
+
+Q10. Tenaga listrik yang dijual / Electricity sold to others: OELKHU (KwH) — Value: YELVCU (Rp)
+
+Q11. Pengeluaran lain selama tahun 2012 / Other Expenses during 2012
+
+| Jenis / Type | Kode / Code | Nilai/Value (Rp) |
+|---|---|---|
+| a.1 Sewa gedung, mesin, alat-alat / Building, machinery and tools rental | IBRVCU | ___ |
+| a.2 Sewa tanah / Land rental | ILRVCU | ___ |
+| b. Pajak / Tax (excl. income & personal taxes) | ITXVCU | ___ |
+| c. Jasa Industri / Industrial services | IISVCU | ___ |
+| d. Bunga atas pinjaman / Interest paid on loan | IINVCU | ___ |
+| e. Hadiah, sumbangan, derma / Gifts, charitable contributions, donations | ICOVCU | ___ |
+| f. Biaya representasi dan royalti / Representation cost and royalty | IRRVCU | ___ |
+| g. Lainnya / Others | IOTVCU | ___ |
+| **Jumlah / Total** | **IT1VCU** | ___ |
+
+Termasuk/Including in (g): Management fee, promosi/iklan, air, pos, telepon, fax, perjalanan dinas, pencegahan pencemaran lingkungan, biaya penelitian, biaya peningkatan SDM
+
+Q12. Bahan baku dan bahan penolong / Raw materials (used during 2012) [10 rows]:
+
+| No. | Nama Bahan | Satuan Standar | Domestic Qty | Domestic Value | Import Qty | Import Value | Total Qty | Total Value |
+|---|---|---|---|---|---|---|---|---|
+| 1–10 | [blank rows] | | | .000 | | .000 | | .000 |
+| **Total** | | | | **RDNVCU** | | **RIMVCU** | | **RTLVCU** |
+
+Tidak termasuk/Excluding: packaging, fuel used, tools/equipment
+
+---
+
+BAGIAN III / PART III: PRODUKSI (BARANG YANG DIHASILKAN) / PRODUCTION (GOODS PRODUCED)
+
+Q13. a. Apakah ada produksi yang diekspor? / Are any products exported? (EKSPOR): [ ] 1 Ya  [ ] 2 Tidak
+
+     b. Sebutkan semua produksi yang dihasilkan selama tahun 2012 / List all production during 2012 [10 rows]:
+
+| No. | Nama barang | Satuan Standar | Banyaknya | Nilai/Value (Rp) | % Diekspor | Negara tujuan utama ekspor *) |
+|---|---|---|---|---|---|---|
+| 1–10 | [blank] | | | .000 | | |
+| **Jumlah/Total** | | | | **YPRVCU** | | |
+
+*) Jika lebih dari satu negara, tuliskan negara dengan nilai terbesar
+
+Q14. Persentase realisasi produksi selama tahun 2012 terhadap kapasitas terpasang: PRPRCA ___%
+
+---
+
+BAGIAN IV / PART IV: PENDAPATAN/PENERIMAAN LAIN YANG DITERIMA SELAMA TAHUN 2012
+OTHER INCOME RECEIVED DURING 2012
+
+Q15. Pendapatan dari jasa industri (makloon) / Manufacturing services received: YISVCU (Rp)
+Q16. Pendapatan lainnya / Other income (profit from sale of unprocessed goods, non-manufacturing services, sale of scrap/waste): YRNVCU (Rp)
+     Jumlah / Total: YT1VCU
+
+Q17. Nilai stok pada awal dan akhir tahun 2012 / Stock or Inventory at beginning and end of year 2012:
+
+| Jenis Stok / Kind of Stock | Awal/Beginning (Rp) | Akhir/End (Rp) | Akhir (-) Awal (Rp) |
+|---|---|---|---|
+| a. Bahan baku, bahan penolong, bahan bakar, pembungkus, dll. | SRJVCU | SRDVCU | SRMVCU |
+| b. Barang setengah jadi / WIP | SHJVCU | SHDVCU | SHFVCU |
+| c. Barang jadi / Finished goods | SFJVCU | SFDVCU | SFNVCU |
+| Jumlah / Total | STJVCU | STDVCU | STLVCU |
+
+---
+
+BAGIAN V / PART V: MODAL TETAP / FIXED CAPITAL
+
+Q18. Nilai taksiran seluruh barang modal tetap dan penambahan/pengurangan/perbaikan besar barang modal tetap dan penyusutan selama tahun 2012
+Estimated value of fixed capital and addition/reduction/major repairs and depreciation during 2012
+
+| Jenis barang modal / Kind of capital | Pembelian/penambahan dan pembuatan/perbaikan besar (Rp) | Penjualan/pengurangan (Rp) | Penyusutan/Depreciation (Rp) | Nilai taksiran per 31 Des 2012 (Rp) |
+|---|---|---|---|---|
+| a. Tanah / Land | CLTTCU | CLSACU | CLDACU | V1101 |
+| b. Gedung / Building | CBTTCU | CBSACU | CBDACU | V1103 |
+| c. Mesin dan perlengkapan / Machinery and Equipment | CMTTCU | CMSACU | CMDACU | V1106 |
+| d. Kendaraan / Vehicles | CVTTCU | CVSACU | CVDACU | V1109 |
+| e. Lainnya / Others | COTTCU | COSACU | CODACU | V1112 |
+| **Jumlah / Total** | **CTTTCU** | **CTSACU** | **CTDACU** | **V1115** |
+
+---
+
+BAGIAN VI / PART VI: PERNYATAAN / CERTIFICATION
+
+Q19. Respondent certification:
+     1. Nama / Name: ___________
+     2. Jabatan / Occupation: ___________
+     3. Telepon: ___  4. Fax: ___
+     5. E-mail: ___
+     6. Tanda Tangan & Cap Perusahaan / Signature and company seal: ___
+     7. Tanggal / Date: ___/2013
+
+Q20. BPS Enumerator (BPS use only):
+     1. Nama: ___
+     2. Jabatan*): KSK/Staf BPS Kab/Kota/BPS Propinsi/Lainnya
+     3. Tanda Tangan: ___
+
+---
+
+BAGIAN VII / PART VII: RINGKASAN / SUMMARY (BPS use only)
+
+Q21. PENGELUARAN / EXPENSES:
+     1. Pekerja (Q5 jumlah) kol (2) + kol (3): ___ .000
+     2. Bahan bakar (Q6) jumlah kol (4): ___ .000
+     3. Nilai tenaga listrik (Q8.a + Q8.b): ___ .000
+     4. Pengeluaran lainnya (Q11 jumlah): ___ .000
+     5. Bahan baku dan penolong (Q12) jumlah kol (9): ___ .000
+     Jumlah: ___ .000
+
+Q22. PENDAPATAN / INCOME:
+     1. Listrik yang dijual (Q10): ___ .000
+     2. Barang-barang yang dihasilkan (Q13.b) jumlah kol (5): ___ .000
+     3. Jasa industri (Q15): ___ .000
+     4. Pendapatan lainnya (Q16): ___ .000
+     5. Selisih nilai stok barang (Q17.b) kol (4): ___ .000
+     Jumlah: ___ .000
+
+Q23. NILAI TAMBAH / VALUE ADDED:
+     a. Pengeluaran lain yang merupakan komponen nilai tambah:
+        1. Rincian Q11.a.2 (sewa tanah): ___ .000
+        2. Rincian Q11.b (pajak): ___ .000
+        3. Rincian Q11.d (bunga atas pinjaman): ___ .000
+        4. Rincian Q11.e (hadiah, sumbangan): ___ .000
+        Jumlah: ___ .000
+     b. Nilai Tambah (Q22 - Q21 + Q21.1 + Q23.a): ___ .000
+
+---
+
+BAGIAN VIII / PART VIII: IDENTITAS PENGAWAS / SUPERVISOR IDENTITY (BPS use only)
+
+Q24. Nama: ___
+Q25. Jabatan*): KSK/Staf BPS Kab/Kota/BPS Propinsi/Lainnya
+Q26. Tanggal Pengawasan/Pemeriksaan: ___/2013
+Q27. Tanda Tangan: ___
+
+---
+
+DAFTAR ALAMAT BADAN PUSAT STATISTIK PROPINSI
+
+| No | Propinsi | Alamat | Telepon/Fax |
+|---|---|---|---|
+| 1 | Aceh | Jl. Tgk.H.M. Daud Beureueh No. 50, Banda Aceh 23121 | (0651) 23005, 22862 |
+| 2 | Sumatera Utara | Jl. Asrama No. 179 Medan - 20123 | (061) 8452343 |
+| 3 | Sumatera Barat | Jl. Khatib Sulaiman No. 48, Padang - 25136 | (0751) 442158-59 |
+| 4 | Riau | Jl. Pattimura No. 12 Pekanbaru - 28131 | (0761) 23042, 21336 |
+| 5 | Kepulauan Riau | Jl. Ir. Sutami No. 34, Tanjung Pinang 29100 | (0771) 312718, 23680 |
+| 6 | Jambi | Jl. A. Yani No. 4 Telanaipura Jambi - 36122 | (0741) 60497, 60802 |
+| 7 | Sumatera Selatan | Jl. Kapten Anwar Sastro No. 1694 Palembang - 30129 | (0711) 318456, 353174 |
+| 8 | Bangka Belitung | Jl. P. Bangka Komplek Perkantoran Pemerintah Provinsi Air Itam, Pangkalpinang | (0717) 439421, 439425 |
+| 9 | Bengkulu | Jl. Adam Malik Km 8 Bengkulu 38225 | (0736) 349117, 349115 |
+| 10 | Lampung | Jl. Basuki Rahmat No. 54 Teluk Betung Bandar Lampung - 35215 | (0721) 482909, 484329 |
+| 11 | D.K.I. Jakarta | Gedung BIPI Lt. 3 & 4 Jl. Letjen Suprapto Kav.3 Jakarta Pusat | (021) 42877301, 42877350 |
+| 12 | Jawa Barat | Jl. Penghulu Hasan Mustapa No. 43, Bandung - 40124 | (022) 87242047, 87242048 |
+| 13 | Banten | Jl. Palima Pakupatan, Kav H1-2, KP3B, Serang 42171 | (0254) 267027, 267026 |
+| 14 | Jawa Tengah | Jl. Pahlawan No. 6 Semarang 50236 | (024) 86451840, 86451844 |
+| 15 | D.I. Yogyakarta | Jl. Lingkar Selatan, Taman Tirto, Kasihan, Bantul | (0274) 4342234, 4342230 |
+| 16 | Jawa Timur | Jl. Kendangsari Industri No. 43-44 Surabaya 60292 | (031) 8438873, 8471143 |
+| 17 | Bali | Jl. Raya Puputan No. 1 Renon Denpasar - 80226 | (0361) 238159, 238162 |
+| 18 | Nusa Tenggara Barat | Jl. Gunung Rinjani 2 Mataram - 83125 | (0370) 641242, 623801 |
+| 19 | Nusa Tenggara Timur | Jl. R. Suprapto No. 5 Kupang - 85111 | (0380) 826289, 833124 |
+| 20 | Kalimantan Barat | Jl. Sutan Syahrir No. 24/42 Pontianak - 78116 | (0561) 735345, 732184 |
+| 21 | Kalimantan Tengah | Jl. Kapten P. Tendean No. 6 Palangkaraya - 73112 | (0536) 328105, 321380 |
+| 22 | Kalimantan Selatan | Jl. K. S. Tubun No. 117 Banjarmasin - 70242 | (0511) 3262314, 3261585 |
+| 23 | Kalimantan Timur | Jl. Kusuma Bangsa No. 2 Samarinda | (0541) 743372, 201121 |
+| 24 | Sulawesi Utara | Jl. 17 Agustus Manado - 95119 | (0431) 847044, 862204 |
+| 25 | Gorontalo | Jl. Taman Pendidikan No. 117 Gorontalo | (0435) 834596, 834597 |
+| 26 | Sulawesi Tengah | Jl. Prof. Mohammad Yamin No. 48 Palu 94114 | (0451) 483610, 483612 |
+| 27 | Sulawesi Selatan | Jl. Haji Bau No. 6 Makassar - 90125 | (0411) 854838, 851225 |
+| 28 | Sulawesi Tenggara | Jl. Made Sabara No. 3 Kendari - 93111 | (0401) 3121751, 3122355 |
+| 29 | Sulawesi Barat | Jl. Martadinata No. 10, Mamuju 91511 | (0426) 21116 |
+| 30 | Maluku | Jl. Haruhun Karang Panjang (Komplek Puleh) Ambon - 97121 | (0911) 353306, 343001 |
+| 31 | Maluku Utara | Jl. Stadion No. 65 Ternate - 97712 | (0921) 3127878, 3126301 |
+| 32 | Papua | Jl. Dr. Sam Ratulangi Dok II Jayapura - 99112 | (0967) 534519, 536490 |
+| 33 | Papua Barat | Jl. Sowi IV No. 99, Manokwari, Papua Barat 98312 | (0986) 213359 |
+
+========================================
+
+EXTRACTION NOTES
+- Total pages: 9 (including address page)
+- Tables found: 9 (workers, wages, fuel, raw materials, production, inventory, fixed capital, summary, address)
+- Figures noted: 0
+- Quality issues: None
+
+STRUCTURAL CHANGES vs. 2011:
+1. REMOVED: R&D question (RESECH) and Innovation question (INNOVA) from Part I — both added in 2011, both removed in 2012
+2. ADDED: Fuel items expanded from 8 to 10: added "e. Briket Batubara/Coal briquettes" (ECBKGU/ECBVCU) and "g. Gas bukan dari PGN/Gas from others" (EGOM3U/EGOVCU) — items d and f renumbered accordingly
+3. Worker table renumbered from Q6 to Q4 (due to removal of R&D/Innovation questions)
+4. Q5 label in cover now includes full English translations "Domestic Investment / Foreign Investment"
+5. Summary section renumbered: Expenses Q23→Q21, Income Q24→Q22, Value Added Q25→Q23, Supervisor Q26-29→Q24-27

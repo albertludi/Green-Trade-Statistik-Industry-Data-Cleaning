@@ -1,0 +1,449 @@
+EXTRACTED: VAR-Kuesioner IBS 2009 (Survei Tahunan Perusahaan Industri Pengolahan 2009)
+Source: VAR-Kuesioner IBS 2009.pdf
+Pages: 9 (plus 1 blank page)
+Document Type: Indonesian Annual Manufacturing Survey Questionnaire 2009 (Bilingual: Indonesian/English)
+Extracted: 2026-03-11
+Method: Read tool
+
+========================================
+
+COVER PAGE
+
+REPUBLIK INDONESIA — BADAN PUSAT STATISTIK
+
+SURVEI TAHUNAN PERUSAHAAN INDUSTRI PENGOLAHAN 2009
+2009 ANNUAL MANUFACTURING SURVEY
+
+Form: Daftar Isian / Questionnaire II-A
+KIP: [blank field — 8 boxes]    PSID: [blank field]
+
+[To be filled by BPS / Diisi oleh BPS:]
+1. Propinsi / Province: DPROVI ……………………………………………
+2. Kab/Kota*) / Regency/Municipality: DKABUP …………………………
+3. Kota Administratip / Administrative City: ………………………………
+4. Kecamatan / Sub-regency: DKECAM ………………………………………
+5. Desa/Kelurahan / Village: DDESA ……………………………………………
+6. Tahun Survei / Survey Year: DSRVYR    2 0 0 9
+
+7. Nama Lengkap Perusahaan / Name of Company: ………………………
+8. Alamat Perusahaan/Unit Produksi / Address of Company/Production Unit:
+   ……………………………………. Kode Pos / Postal Code: [5 boxes]
+   E-mail: ………………………
+   Telp.: ( ) ………………………  Fax.: ( ) …………………
+9. Alamat Kantor Pusat / Mailling Address:
+   ……………………………………. Kode Pos / Postal Code: [5 boxes]
+   E-mail: ………………………………………………………………
+   Telp.: ( ) ………………………  Fax.: ( ) …………………
+
+10. Status Penanaman Modal / Invesment Company Status:
+    1. PMDN    2. PMA    3. Non fasilitas    DSTATS
+
+11. Lokasi Perusahaan / Location of Company:    LOCATI
+    1. Di dalam kawasan industri / Inside of industrial area
+    2. Di luar kawasan industri / Outside industrial area
+
+PERHATIAN / ATTENTION
+- Tujuan survei: Memperoleh data statistik yang dapat dipercaya dan tepat waktu untuk perencanaan pembangunan Sektor Industri Pengolahan /
+  Obtaining reliable and accurate manufacturing data for developing planning
+- Kewenangan: Berdasarkan UU Nomor 16 Tahun 1997 Tentang Statistik, Pasal 11
+- Kerahasiaan: Dijamin oleh UU Nomor 16 tahun 1997 Tentang Statistik, Pasal 21
+- Biaya: Tidak memungut biaya apapun dari responden / Free of charge
+- Kewajiban Memberikan Jawaban: Setiap responden wajib memberikan keterangan (UU Nomor 16 Tahun 1997, Pasal 27)
+
+Perlu Bantuan atau Penjelasan / Help Available:
+Tri Supriyati, M.Stat
+Jl. Dr Soetomo No.6-8, Jakarta 10710
+Telp: (021) 3810291-5, 3841195 ext: 5310-5313, fax: (021) 3863816
+E-mail: trisp@bps.go.id atau Badan Pusat Statistik Propinsi/Kabupaten/Kotamadya setempat
+*) Coret yang tidak perlu / Cross out if not valid
+
+========================================
+
+PAGE 2 — INSTRUCTIONS
+
+Data yang dilaporkan mencakup kegiatan dari tanggal 1 Januari s.d. 31 Desember 2009.
+Data should cover from 1 January to 31 December 2009.
+Data in value term should be expressed in thousand rupiahs.
+
+Example: Suppose wage and salary of male production workers during year 2009 is Rp 100.000.850,00;
+entry in question no 7 as below:
+
+| Category | Upah dan Gaji / Wage & Salary |
+|----------|-------------------------------|
+| Pekerja Produksi / Production Workers | [100.001.000] |
+
+========================================
+
+BAGIAN/PART I: KETERANGAN UMUM / GENERAL INFORMATION
+
+1. Periode data yang dilaporkan / Time reference of data reported:
+   Berikan tanda cek (√) pada bulan kegiatan perusahaan ini /
+   Mark check (√) at the month that the data reported in this questionnaire:
+
+| JAN | FEB | MAR | APR | MEI | Juni | Juli | AGT | Sept | OKT | NOP | DES | Jumlah | YEAR |
+|-----|-----|-----|-----|-----|------|------|-----|------|-----|-----|-----|--------|------|
+|     |     |     |     |     |      |      |     |      |     |     |     |        |      |
+
+2. Produk Utama / Main Product:    MAINPR [text box]
+   Diisi oleh BPS / To be filled by BPS: D | I | S | I | C | 5
+
+   Bila lebih dari 1 jenis industri, tuliskan barang yang diproduksi yang mempunyai nilai produksi terbesar /
+   If the company is engaged more than one commodity, please write down the one having the largest production value.
+
+3. Apakah Perusahaan Saudara melakukan kegiatan Penelitian dan Pengembangan (Litbang)?    RESECH
+   Is your company doing research activities?
+   a. Ya, sesekali jika diperlukan / Yes, occasionally    [box]
+   b. Ya, rutin setiap tahun / Yes, continuously          [box]
+   c. Tidak / No                                          [box]
+
+   KEGIATAN PENELITIAN DAN PENGEMBANGAN (LITBANG) / RESEARCH AND DEVELOPMENT
+   Adalah kegiatan kreatif yang dilakukan dengan sistematis untuk menambah pengetahuan, termasuk pengetahuan
+   tentang manusia, kebudayaan dan masyarakat, dan pemanfaatan pengetahuan ini untuk merancang penerapan baru.
+   Is creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge
+   of man, culture and society, and the use of this stock of knowledge to devise new applications.
+
+   Contoh aktifitas yang TERMASUK Litbang / Example of R&D activities:
+   - Pengembangan prototype: desain, konstruksi dan pengujian / Prototype activities, design, construction & testing
+   - Konstruksi dan pengoperasian pilot plan / Construction & pilot plan operation
+   - Penelitian dan pengembangan system operasi, algoritma atau bahasa pemrograman baru /
+     Operational system R&D, algorithm or new language programme
+
+   Contoh aktifitas yang TIDAK TERMASUK Litbang / Example of NOT R&D activities:
+   - Studi kelayakan / Feasibility study
+   - Rekayasa teknis / Technical engineering
+   - Analisa matematika dan Statistik / Operational research
+   - Pengumpulan data rutin / Data collecting
+   - Penelitian pasar / Market research
+   - Pembuatan aplikasi program computer dengan teknologi perangkat lunak yang sudah ada /
+     Programme application computer production with existing software
+
+4. Persentase permodalan / Percentage of capital owned by:
+
+| Source | Code | % |
+|--------|------|---|
+| a. Pemerintah Pusat / Central Government | DPUSAT | % |
+| b. Pemerintah Daerah / Local Government | DPEMDA | % |
+| c. Swasta Nasional / National Private | DDMSTK | % |
+| d. Asing / Foreign | DASING | % |
+| Jumlah/Total (a+b+c+d) | | 100% |
+
+5. Apabila Rincian 4.d terisi, tuliskan nama negara asal penanam modal /
+   If 4.d filled, please write down the name of the investor country:
+
+| No | Nama Negara / Country | % |
+|----|----------------------|---|
+| 1. | CONTR1 | PRCTR1 |
+| 2. | CONTR2 | PRCTR2 |
+| 3. | CONTR3 | PRCTR2 |
+
+   Catatan / Notes: Persentase penanam modal asing termasuk perorangan, badan hukum (PT, Firma dll)
+   atau instansi dari negara asal /
+   Percentage of foreign investment including private, legal status or institution from the origin country.
+
+6. Banyaknya pekerja/karyawan rata-rata per hari kerja baik pekerja yang dibayar maupun tidak dibayar
+   selama tahun 2009 / Average number of paid and unpaid workers per working day during 2009:
+
+| Jenis Kelamin / Sex | Produksi / Production | Lainnya / Other | Jumlah / Total |
+|--------------------|-----------------------|-----------------|----------------|
+| Laki-laki / Male | LPMLTL | LNMLTL | LTMNOU |
+| Perempuan / Female | LPWLTL | LNWLTL | LTWNOU |
+| Jumlah / Total | LPRNOU | LNPNOU | LTLNOU |
+
+   Tidak Termasuk / Excluding:
+   - Orang yang dibayar hanya berdasarkan komisi / Person paid by commission only
+   - Orang yang bekerja sendiri seperti konsultan dan kontraktor / Self employed person such as consultants and contractors
+   - Pegawai yang bekerja di sektor bukan industri pengolahan seperti pegawai unit perkebunan, pegawai unit pertambangan /
+     Non manufacturing workers such as person who work in unit of plantation, mining, etc
+
+========================================
+
+BAGIAN/PART II: PENGELUARAN / EXPENSES
+
+7. Pengeluaran untuk pekerja/karyawan selama tahun 2009 / Wage/salary of workers in 2009:
+
+| Category | Upah/gaji / Wage/salary (Rp) | Insentif lainnya / Other incentive (Rp) | Jumlah / Total (Rp) |
+|----------|-----------------------------|-----------------------------------------|---------------------|
+| a. Pekerja Produksi / Production Workers | ZPSVCU 000 | ZPXVCU 000 | ZPZVCU 000 |
+| b. Pekerja Lainnya / Others Workers | ZNSVCU 000 | ZNXVCU 000 | ZNZVCU 000 |
+
+8. Bahan bakar dan pelumas / Fuel and lubricants
+   Banyaknya dan nilai seluruh bahan bakar dan pelumas yang betul-betul digunakan selama tahun 2009 /
+   Quantity and value of fuel and lubricants used during 2009:
+
+| Jenis bahan bakar / Kind of fuel and lubricants | Std Unit | Total Qty | Total Value (Rp) | Generator Qty | Generator Value (Rp) |
+|--------------------------------------------------|----------|-----------|-----------------|---------------|---------------------|
+| a. Bensin/Premium / Gasoline | — | EPELIU | EPEVCU 000 | EPELIE | EPEVCE 000 |
+| b. Solar/HSD/ADO / Diesel fuel | — | ESOLIU | ESOVCU 000 | ESOLIE | ESOVCE 000 |
+| c. Minyak tanah / Kerosene | — | EOILIU | EOIVCU 000 | EOILIE | EOIVCE 000 |
+| d. Batubara / Coal | — | ECLKGU | ECLVCU 000 | ECLKGE | ECLVCE 000 |
+| e. Gas dari PGN / Public Gas | — | EGAM3U | EGAVCU 000 | EGAM3E | EGAVCE 000 |
+| f. LPG / LPG | — | ELPKGU | ELPVCU 000 | ELPKGE | ELPVCE 000 |
+| g. Bahan bakar lainnya / Other fuels | — | — | ENCVCU 000 | — | ENCVCE 000 |
+| h. Pelumas / Lubricant | — | ELULIU | ELUVCU 000 | ELULIE | ELUVCE 000 |
+| Jumlah / Total | | | EFUVCU 000 | | EFUVCE 000 |
+
+   Bahan bakar lainnya terdiri dari: Kokas, Minyak Bakar/Bunker C /
+   Other fuels consist of: Coke, Fuel oil/FO/Bunker C/MFO
+
+9. Generator Yang digunakan / Generator used:
+   Banyaknya / Quantity: MGENOU    Kekuatan / Capacity: MGEKWU KVA/KW
+
+10. Tenaga listrik yang dibeli dari / Electricity purchased from:
+
+| Source | Banyaknya / Quantity | Nilai/Value (Rp) |
+|--------|---------------------|-----------------|
+| a. PLN / PLN | EPLKHU KwH | EPLVCU 000 |
+| b. Non PLN / non-PLN | ENPKHU KwH | ENPVCU 000 |
+
+11. Banyaknya tenaga listrik yang dibangkitkan sendiri oleh perusahaan /
+    Electricity generated by the establishment:    ESGKHU KwH
+
+12. Tenaga listrik yang dijual / Electricity sold to others:
+    Banyaknya: OELKHU KwH    Nilai/Value: YELVCU 000
+
+13. Pengeluaran lain selama tahun 2009 / Other Expenses during 2009:
+
+| Item | Code | Nilai/Value (Rp) |
+|------|------|-----------------|
+| a). Pengeluaran untuk sewa atau kontrak / Rental or contract payments | | |
+|     1). Gedung, mesin, serta alat-alat / Building, machinery and tools | IBRVCU | 000 |
+|     2). Tanah / Land | ILRVCU | 000 |
+| b). Pajak / Tax (Tidak termasuk: Pajak upah, pajak perseorangan / Excluding: income and personal taxes) | ITXVCU | 000 |
+| c). Jasa Industri / Industrial services | IISVCU | 000 |
+| d). Bunga atas pinjaman / Interest paid on loan | IINVCU | 000 |
+| e). Hadiah, sumbangan, derma dan sejenisnya / Gifts, charitable contributions, donations, etc | ICOVCU | 000 |
+| f). Lainnya / Others | IOTVCU | 000 |
+| Jumlah / Total | IT1VCU | 000 |
+
+   Termasuk / Including: Biaya representasi, royalti, management fee, promosi/iklan, air, pos, telepon, fax,
+   perjalanan dinas, pencegahan pencemaran lingkungan, biaya penelitian, biaya peningkatan SDM /
+   Representation cost, royalty, management fee, promotion/advertising, water, postage, facsimile, telephone,
+   travel expenses, prevention of environment pollution, R&D, human resource development
+
+========================================
+
+14. Bahan baku dan bahan penolong / Raw materials
+
+    Sebutkan jenis bahan baku dan bahan penolong yang dipakai selama tahun 2009 dirinci menurut "banyaknya"
+    dan "nilai" serta asal bahan tersebut /
+    State the type of raw materials used during 2009, in both quantity and value, and state the source.
+
+    Tidak termasuk / Excluding:
+    - Pembungkus, pengepak, pengikat barang jadi / Packaging
+    - Bahan bakar yang dipakai habis / Fuel used
+    - Perabot/peralatan / Tools
+
+    BAHAN BAKU DAN BAHAN PENOLONG YANG DIPAKAI SELAMA TAHUN 2009 /
+    MATERIALS USED DURING 2009
+
+    | No. | Nama Bahan / Name of materials | Std Unit | Dom Qty | Dom Value (Rp) | Imp Qty | Imp Value (Rp) | Total Qty | Total Value (Rp) |
+    |-----|-------------------------------|----------|---------|----------------|---------|----------------|-----------|-----------------|
+    | 1. | | | | 000 | | 000 | | 000 |
+    | 2. | | | | 000 | | 000 | | 000 |
+    | 3. | | | | 000 | | 000 | | 000 |
+    | 4. | | | | 000 | | 000 | | 000 |
+    | 5. | | | | 000 | | 000 | | 000 |
+    | 6. | | | | 000 | | 000 | | 000 |
+    | 7. | | | | 000 | | 000 | | 000 |
+    | 8. | | | | 000 | | 000 | | 000 |
+    | 9. | | | | 000 | | 000 | | 000 |
+    | 10. | | | | 000 | | 000 | | 000 |
+    | Jumlah / Total | | | | RDNVCU 000 | | RIMVCU 000 | | RTLVCU 000 |
+
+========================================
+
+BAGIAN/PART III: PRODUKSI (BARANG YANG DIHASILKAN) / PRODUCTION (GOODS PRODUCED)
+
+15. a. Apakah ada produksi yang diekspor, baik yang diekspor sendiri atau pihak lain? /
+       Does this establishment export any of its products (by own or others)?
+       1. Ya/Yes    2. Tidak/No    [box: EKSPOR]
+
+    b. Sebutkan semua produksi yang dihasilkan selama tahun 2009 dirinci menurut jenis barang, banyaknya, dan nilai /
+       State all goods produced during 2009 (by product name, quantity, value and percentage exported):
+
+       Tidak termasuk / Excluding:
+       - Barang yang belum selesai diolah (setengah jadi) / Unfinished goods
+       - Barang yang tidak diproses/tidak diolah / Unprocessed goods
+
+       Catatan / Note: Bila satuan yang digunakan tidak standar seperti "kaleng", "tabung" agar dikonversikan
+       ke metrik seperti liter, M3 dsb /
+       In case using not standard unit such as 'bottle', 'can', etc. please convert to metric unit such as litre, M3 etc.
+
+       | No. | Nama barang yang dihasilkan / Name of goods produced | Satuan Standar / Standard unit | Banyaknya / Quantity | Nilai/Value (Rp) | Persentase yang di ekspor / Percentage of goods exported |
+       |-----|------------------------------------------------------|-------------------------------|---------------------|-----------------|----------------------------------------------------------|
+       | 1. | | | | 000 | |
+       | 2. | | | | 000 | |
+       | 3. | | | | 000 | |
+       | 4. | | | | 000 | |
+       | 5. | | | | 000 | |
+       | 6. | | | | 000 | |
+       | 7. | | | | 000 | |
+       | 8. | | | | 000 | |
+       | 9. | | | | 000 | |
+       | 10. | | | | 000 | |
+       | Jumlah / Total | | | | YPRVCU 000 | |
+
+16. Persentase realisasi produksi selama tahun 2009 terhadap kapasitas terpasang /
+    Percentage of actual production to production capacity during 2009:    PRPRCA %
+
+========================================
+
+BAGIAN/PART IV: PENDAPATAN/PENERIMAAN LAIN YANG DITERIMA SELAMA TAHUN 2009 /
+OTHER INCOME RECEIVED DURING 2009
+
+| Item | Code | Nilai/Value (Rp) |
+|------|------|-----------------|
+| 17. Pendapatan dari jasa industri (makloon) / Manufacturing services received | YISVCU | 000 |
+| 18. Pendapatan lainnya (Keuntungan penjualan barang yang tidak diproses, jasa-jasa non industri lainnya, penjualan limbah/sampah produksi) / Profit from sale of unprocessed goods, from non manufacturing services, from sale of scrap waste | YRNVCU | 000 |
+| Jumlah / Total | YT1VCU | 000 |
+
+19. Nilai stok pada awal dan akhir tahun 2009 / Stock or Inventory at the beginning and at the end of 2009:
+
+| Item | Awal / Beginning (Rp) | Akhir / End (Rp) | Akhir - Awal / End-Beginning (Rp) |
+|------|----------------------|-----------------|----------------------------------|
+| a. Nilai stok bahan baku, bahan penolong, bahan bakar, bahan pembungkus, dan lain-lain / Stock of raw materials, fuel, packaging, and other materials | SRJVCU 000 | SRDVCU 000 | SRMVCU 000 |
+| b. Nilai stok barang produksi setengah jadi (dinilai sesuai nilai bahan baku + nilai pekerjaan yang dilakukan) / Stock of semi-finished products (work in process) | SHJVCU 000 | SHDVCU 000 | SHFVCU 000 |
+| c. Nilai stok barang jadi yang dihasilkan / Stock of finished products | SFJVCU 000 | SFDVCU 000 | SFNVCU 000 |
+| Jumlah / Total | STJVCU 000 | STDVCU 000 | STLVCU 000 |
+
+========================================
+
+BAGIAN/PART V: MODAL TETAP / FIXED CAPITAL
+
+20. Nilai taksiran seluruh barang modal tetap dan penambahan/pengurangan/perbaikan besar barang modal tetap
+    selama tahun 2009 / Estimated value of fixed capital and addition/reduction/major repairs during 2009:
+
+| Jenis / Kind | Pembelian/penambahan dan pembuatan/perbaikan besar (Rp) / Purchase/addition and construction/major repairs | Penjualan/pengurangan barang modal (Rp) / Sale/reduction of fixed capital | Nilai Taksiran seluruh barang modal tetap menurut harga berlaku per 31 Des 2009 (Rp) / Estimated value of all fixed capital based on current value per 31 December 2009 |
+|--------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Tanah / Land | CLTTCU 000 | CLSACU 000 | V1101 000 |
+| 2. Gedung / Building | CBTTCU 000 | CBSACU 000 | V1103 000 |
+| 3. Mesin dan perlengkapan / Machinery and Equipment | CMTTCU 000 | CMSACU 000 | V1106 000 |
+| 4. Kendaraan / Vehicles | CVTTCU 000 | CVSACU 000 | V1109 000 |
+| 5. Lainnya / Others | COTTCU 000 | COSACU 000 | V1112 000 |
+| Jumlah / Total | CTTTCU 000 | CTSACU 000 | V1115 000 |
+
+========================================
+
+BAGIAN/PART VI: PERNYATAAN / CERTIFICATION
+
+21. Data yang tercantum dalam daftar isian ini diisi dengan sebenarnya dan menurut keadaan yang sesungguhnya /
+    Data stated in this form has been filled out truthfully and accurately by:
+    1. Nama / Name: .............................................
+    2. Jabatan / Occupation: .....................................
+    3. Telepon / Telephone: .......    4. Facsimile: ...............
+    5. E-mail: ...................................................
+    6. Tanda Tangan & Cap Perusahaan / Signature and company seal: [box]
+    7. Tanggal / Date: /2010
+
+    Bagian ini hanya diisi oleh petugas BPS / For BPS enumerator's use only:
+    1. Nama: ......................................................
+    2. Jabatan*): Mantis / BPS Kab/Kota / BPS Propinsi / Lainnya (Tuliskan) [box]
+    3. Tanggal Penyerahan Dokumen: /2010
+    4. Tanggal Penerimaan Dokumen: /2010
+    5. Tanda Tangan: ..........    6. Nama Pengawas/Pemeriksa: .......
+    7. Tanggal Pengawasan/Pemeriksaan: /2010
+    8. Tanda Tangan: ..............
+    *) Lingkari yang sesuai dengan jabatan
+
+========================================
+
+BAGIAN/PART VII: RINGKASAN (Diisi oleh pengawas lapangan) /
+SUMMARY (To be filled by supervisor)
+
+23. PENGELUARAN / EXPENSES:
+
+| Item | Nilai (Rp) |
+|------|------------|
+| 1. Pekerja (7.a+7.b) jumlah kol(3) | 000 |
+| 2. Bahan bakar (8) jumlah kol(3) | 000 |
+| 3. Bahan baku dan penolong (14) jumlah kolom (9) | 000 |
+| 4. Jumlah pengeluaran lainnya (13) | 000 |
+| 5. Nilai tenaga listrik (10.a + 10.b) | 000 |
+| Jumlah | 000 |
+
+24. PENDAPATAN / INCOME:
+
+| Item | Nilai (Rp) |
+|------|------------|
+| 1. Barang-barang yang dihasilkan (15.b) jml kol(5) | 000 |
+| 2. Jasa industri (17) | 000 |
+| 3. Pendapatan lainnya (18) | 000 |
+| 4. Selisih nilai stok barang (19.b) kolom (3) | 000 |
+| 5. Listrik yang dijual (12) | 000 |
+| Jumlah | 000 |
+
+25. NILAI TAMBAH / Value Added:
+
+a. Pengeluaran lain yang merupakan komponen nilai tambah:
+
+| Item | Nilai (Rp) |
+|------|------------|
+| 1. Rincian 13.a.2 (sewa tanah) | 000 |
+| 2. Rincian 13.b (Pajak) | 000 |
+| 3. Rincian 13.d (bunga atas pinjaman) | 000 |
+| 4. Rincian 13.e (hadiah, sumbangan, derma dan sejenisnya) | 000 |
+| Jumlah | 000 |
+
+b. Nilai Tambah (24 − 23 + 23.1 + 25.a): 000
+
+========================================
+
+LAST PAGE — DAFTAR ALAMAT BADAN PUSAT STATISTIK PROPINSI
+
+| No | Propinsi | Alamat | Telepon/Fax |
+|----|----------|--------|-------------|
+| 1 | Nanggroe Aceh Darussalam | Jl. Tgk.H.M. Daud Beureueh No.50, Banda Aceh 23121 | (0651) 23005, 22862 |
+| 2 | Sumatera Utara | Jl. Asrama No.179, Medan 20123 | (061) 8452343 |
+| 3 | Sumatera Barat | Jl. Khatib Sulaiman No.48, Padang 25136 | (0751) 442158-59 |
+| 4 | Riau | Jl. Pattimura No.12, Pekanbaru 28131 | (0761) 23042, 21336 |
+| 5 | Kepulauan Riau | Jl. Ir. Sutami No.34, Tanjung Pinang 29100 | (0771) 312718, 23680 |
+| 6 | Jambi | Jl. A. Yani No.4 Telanaipura, Jambi 36122 | (0741) 60497, 60802 |
+| 7 | Sumatera Selatan | Jl. Kapten Anwar Sastro No.1694, Palembang 30129 | (0711) 318456, 353174 |
+| 8 | Bangka Belitung | Jl. P. Bangka Komplek Perkantoran Pemerintah Provinsi Air Itam, Pangkalpinang | (0717) 439421, 439425 |
+| 9 | Bengkulu | Jl. Adam Malik Km.8, Bengkulu 38225 | (0736) 349117, 349115 |
+| 10 | Lampung | Jl. Basuki Rahmat No.54 Teluk Betung, Bandar Lampung 35215 | (0721) 482909, 484329 |
+| 11 | D.K.I. Jakarta | Gedung BIPI Lt.3 & 4, Jl. Letjen Suprapto Kav.3, Jakarta Pusat | (021) 42877301, 42877350 |
+| 12 | Jawa Barat | Jl. Purwakarta No.173, Antapani, Bandung | (022) 87242047, 87242048 |
+| 13 | Banten | Jl. Palima Pakupatan, Kav H1-2, KP3B, Serang 42171 | (0254) 267027, 267026 |
+| 14 | Jawa Tengah | Jl. Menoreh Tengah X No.4, Semarang 50236 | (024) 86451840, 86451844 |
+| 15 | D.I. Yogyakarta | Jl. Lingkar Selatan, Taman Tirto, Kasihan, Bantul | (0274) 4342234, 4342230 |
+| 16 | Jawa Timur | Jl. Kendangsari Industri No.43-44, Surabaya 60292 | (031) 8438873, 8471143 |
+| 17 | Bali | Jl. Raya Puputan No.1, Renon, Denpasar 80226 | (0361) 238159, 238162 |
+| 18 | Nusa Tenggara Barat | Jl. Gunung Rinjani 2, Mataram 83125 | (0370) 641242, 623801 |
+| 19 | Nusa Tenggara Timur | Jl. R. Suprapto No.5, Kupang 85111 | (0380) 826289, 833124 |
+| 20 | Kalimantan Barat | Jl. Sutan Syahrir No.24/42, Pontianak 78116 | (0561) 735345, 732184 |
+| 21 | Kalimantan Tengah | Jl. Kapten P. Tendean No.6, Palangkaraya 73112 | (0536) 328105, 321380 |
+| 22 | Kalimantan Selatan | Jl. K.S. Tubun No.117, Banjarmasin 70242 | (0511) 3262314, 3261585 |
+| 23 | Kalimantan Timur | Jl. Kusuma Bangsa No.2, Samarinda | (0541) 743372, 201121 |
+| 24 | Sulawesi Utara | Jl. 17 Agustus, Manado 95119 | (0431) 847044, 862204 |
+| 25 | Gorontalo | Jl. Taman Pendidikan No.117, Gorontalo | (0435) 834596, 834597 |
+| 26 | Sulawesi Tengah | Jl. Prof. Mohammad Yamin No.48, Palu 94114 | (0451) 483610, 483612 |
+| 27 | Sulawesi Selatan | Jl. Haji Bau No.6, Makassar 90125 | (0411) 854838, 851225 |
+| 28 | Sulawesi Tenggara | Jl. Made Sabara No.3, Kendari 93111 | (0401) 3121751, 3122355 |
+| 29 | Sulawesi Barat | Jl. Martadinata No.10, Mamuju 91511 | (0426) 21116 |
+| 30 | Maluku | Jl. Haruhun Karang Panjang (Komplek Puleh), Ambon 97121 | (0911) 353306, 343001 |
+| 31 | Maluku Utara | Jl. Stadion No.65, Ternate 97712 | (0921) 3127878, 3126301 |
+| 32 | Papua | Jl. Dr. Sam Ratulangi Dok II, Jayapura 99112 | (0967) 534519, 536490 |
+| 33 | Papua Barat | Jl. Sowi IV No.99, Manokwari, Papua Barat 98312 | (0986) 213359 |
+
+========================================
+
+EXTRACTION NOTES
+- Total pages: 9 (plus 1 blank back page)
+- Tables found: 9 (workers, wages, fuel, electricity, other expenses, raw materials, production, inventory, fixed capital)
+- Figures noted: 0
+- Quality issues: None — clean digital PDF
+- Special notes on structural changes vs. 2007:
+  - Contact person changed to Tri Supriyati, M.Stat (vs. unnamed in 2007)
+  - Survey year variable code explicitly shown: DSRVYR (new)
+  - Village variable code: DDESA (new)
+  - Sub-regency variable code: DKECAM (new)
+  - PSID field now present on cover (was not in IBS07)
+  - Investment company status code (Q10): DSTATS variable code shown explicitly (new vs. 2007)
+  - Q3 NEW: R&D participation question (RESECH) with detailed definition and examples of what counts/doesn't count as R&D
+  - Q5 NEW: Foreign investor country table (up to 3 countries with percentage: CONTR1/2/3, PRCTR1/2)
+  - Wages table (Q7): Same 3-column format as 2007 (wage/salary, other incentives, total); variable codes changed: production worker total is ZPZVCU (was ZPSVCU for wage only), incentive is ZPXVCU (new)
+  - Raw materials: reduced to 10 rows (was 11 in 2007)
+  - Fixed capital: now has "estimated total value" column (V1101/V1103/V1106/V1109/V1112/V1115) — same as 2007 (Q18)
+  - Certification date: /2010 (certifying 2009 data in 2010)
+  - Summary numbered Q23/Q24/Q25 (Q22 absent — likely the summary section numbering is internal to Part VII)
