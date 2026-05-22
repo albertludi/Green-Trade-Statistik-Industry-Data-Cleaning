@@ -44,8 +44,20 @@ Mba Deasy-Green Project/
 - Repo: `Green-Trade Statistik Industry Data Cleaning` (github.com/albertludi)
 - Large files (.dta, .zip, .pdf) are gitignored — only commit do-files, outputs, and docs
 
+## Deliverable
+**`output/si_energy_emissions.dta`** — clean carbon emission estimates per firm × year, with:
+- Scope 1 (direct fuel combustion) and Scope 2 (purchased electricity) CO₂e
+- Two specs: Spec 1 (ESDM HEES NCV) and Spec 2 (BPS Neraca Energi NCV)
+- Sensitivity variants (coal type, LPG NCV, time-varying grid EF)
+- Disaggregated by fuel type, ISIC industry, and province
+- Documented in `output/data_industry_emission.qmd`
+
+This is the **end product** handed to Mba Deasy for her DiD/event-study analysis of whether newly internationalizing firms reduce carbon intensity. The regression analysis is **not part of this pipeline**.
+
 ## Project Status
-- [ ] Explore energy variables in raw data
-- [ ] Map energy types across survey years (questionnaires differ by year)
-- [ ] Apply emission conversion factors
-- [ ] Produce clean panel: firm × year × carbon intensity
+- [x] Explore energy variables in raw data
+- [x] Map energy types across survey years (questionnaires differ by year)
+- [x] Apply emission conversion factors (IPCC 2006 Table 2.3 × HEES/Neraca NCV)
+- [x] Produce clean panel: firm × year × carbon intensity
+- [x] Document all decisions in QMD (data_industry_emission.qmd)
+- [x] Validate coal unit diagnostic (no correction needed — data already in Kg)
